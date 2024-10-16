@@ -1,0 +1,10 @@
+{
+    "version": 1,
+    "overrides": {
+         "embeddium": {
+            "-breaks": {
+                "immersive_portals": "IGNORED"
+            }
+        }
+    }
+}

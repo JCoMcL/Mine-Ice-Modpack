@@ -1,0 +1,16 @@
+icon.png
+
+*.disabled
+
+/.fabric
+/coremods
+/data
+/logs
+/mods/*.jar
+/resourcepacks
+/saves
+/screenshots
+/server-resource-packs
+/shaderpacks
+/texturepacks
+/usercache.json
