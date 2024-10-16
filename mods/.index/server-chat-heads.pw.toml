@@ -1,0 +1,16 @@
+filename = 'chatheads-0.2.jar'
+loaders = [ 'fabric', 'quilt' ]
+mcVersions = [ '1.20', '1.20.1' ]
+name = 'Server Chat Heads'
+releaseType = 'release'
+side = 'server'
+
+[download]
+hash = '8a6faf98d0f33fc62ac67d42b6e4e9384fc6ece700182d0a96274d1e527dccfb8f29bdfb5a372431676150d69bb04edb8db09f14a9643b150e1082e4eb6ff1b0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/EM2ioiwa/versions/vT9oaf5K/chatheads-0.2.jar'
+
+[update.modrinth]
+mod-id = 'EM2ioiwa'
+version = 'vT9oaf5K'
