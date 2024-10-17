@@ -1,3 +1,4 @@
+/.bobby
 /.cache
 /.fabric
 /coremods
@@ -13,8 +14,10 @@
 /texturepacks
 /icon.png
 /usercache.json
+/usernamecache.json
 
 *.disabled
 
 config/indium-renderer.properties
 config/fabric/indigo-renderer.properties
+.bobby
