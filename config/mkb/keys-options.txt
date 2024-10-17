@@ -51,3 +51,8 @@ key_key.voice_chat_toggle_recording:key.keyboard.unknown:NONE
 key_key.voice_chat_adjust_volumes:key.keyboard.unknown:NONE
 key_key.waxednotwaxed.toggle:key.keyboard.unknown:NONE
 key_key.weaponmaster_ydm.opengui:key.keyboard.unknown:NONE
+key_key.waila.config:key.keyboard.unknown:NONE
+key_key.waila.show_overlay:key.keyboard.left.shift:NONE
+key_key.waila.toggle_liquid:key.keyboard.unknown:NONE
+key_key.waila.show_recipe_input:key.keyboard.unknown:NONE
+key_key.waila.show_recipe_output:key.keyboard.unknown:NONE

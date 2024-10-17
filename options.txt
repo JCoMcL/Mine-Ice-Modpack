@@ -139,6 +139,11 @@ key_key.voice_chat_toggle_recording:key.keyboard.unknown
 key_key.voice_chat_adjust_volumes:key.keyboard.unknown
 key_key.waxednotwaxed.toggle:key.keyboard.unknown
 key_key.weaponmaster_ydm.opengui:key.keyboard.unknown
+key_key.waila.config:key.keyboard.unknown
+key_key.waila.show_overlay:key.keyboard.left.shift
+key_key.waila.toggle_liquid:key.keyboard.unknown
+key_key.waila.show_recipe_input:key.keyboard.unknown
+key_key.waila.show_recipe_output:key.keyboard.unknown
 soundCategory_master:1.0
 soundCategory_music:1.0
 soundCategory_record:1.0
