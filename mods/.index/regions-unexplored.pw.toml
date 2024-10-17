@@ -1,0 +1,16 @@
+filename = 'RegionsUnexploredFabric-0.5.6+1.20.1.jar'
+loaders = [ 'fabric' ]
+mcVersions = [ '1.20.1' ]
+name = 'Regions Unexplored'
+releaseType = 'release'
+side = 'both'
+
+[download]
+hash = '3ba4d1f6adc66d3b2a325d396b4829e45e54560b33900cba060bac99fb53e59588cd0ab5ecc05cb81d7eddeef4041fd772a9c12f786714b447890a2725d9d544'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Tkikq67H/versions/rhE8MT9Z/RegionsUnexploredFabric-0.5.6%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'Tkikq67H'
+version = 'rhE8MT9Z'
