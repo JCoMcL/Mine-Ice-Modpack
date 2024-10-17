@@ -42,5 +42,8 @@
   "looseMovementCheck": false,
   "chunkPacketDebug": false,
   "enableImmPtlChunkLoading": true,
-  "disabledWarnings": []
+  "disabledWarnings": [
+    "voicechat",
+    "many_mods"
+  ]
 }
