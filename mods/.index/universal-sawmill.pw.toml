@@ -1,0 +1,16 @@
+filename = 'sawmill-1.20-1.4.3-fabric.jar'
+loaders = [ 'fabric' ]
+mcVersions = [ '1.20.1' ]
+name = 'Sawmill'
+releaseType = 'release'
+side = 'both'
+
+[download]
+hash = '87a01245e7fa8908f4e0083d2e91e064bbd6093e3de6c1ad7e83e24d129386d9e1e3a896dec1218be65299c2db38d3df7cd47937b252f6085a0a55728c57a547'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/WRaRZdTd/versions/gkqfqi9t/sawmill-1.20-1.4.3-fabric.jar'
+
+[update.modrinth]
+mod-id = 'WRaRZdTd'
+version = 'gkqfqi9t'

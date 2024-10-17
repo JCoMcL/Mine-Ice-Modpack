@@ -1,0 +1,16 @@
+filename = 'dummmmmmy-1.20-2.0.3-fabric.jar'
+loaders = [ 'fabric' ]
+mcVersions = [ '1.20.1' ]
+name = 'MmmMmmMmmMmm'
+releaseType = 'release'
+side = 'both'
+
+[download]
+hash = '5bd3a282e9d7dcc7fda09edb635cc62f7e73d95225547e0f034dccbabe71eab2ec34aa0c1223d010ea4fca6c571448b06059264f6faf768126e3c3f010b367fd'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Adega8YN/versions/o2545dR2/dummmmmmy-1.20-2.0.3-fabric.jar'
+
+[update.modrinth]
+mod-id = 'Adega8YN'
+version = 'o2545dR2'
