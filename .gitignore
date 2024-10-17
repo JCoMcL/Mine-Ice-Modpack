@@ -28,3 +28,4 @@ config/roughlyenoughitems/*
 
 .bobby
 emi.json
+config/waila/waila_plugins.json5
