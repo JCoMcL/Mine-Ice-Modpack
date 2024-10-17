@@ -1,6 +1,9 @@
 {
   "allowMovement": {
-    "net.minecraft.class_434": true
+    "net.minecraft.class_434": true,
+    "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true
   },
-  "hideBackground": {}
+  "hideBackground": {
+    "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true
+  }
 }
