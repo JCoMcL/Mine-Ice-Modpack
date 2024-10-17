@@ -1,5 +1,5 @@
 {
-  "time": true,
+  "time": false,
   "timeDate": "HH:mm:ss",
   "timeFormat": "[$]",
   "timeColor": 16733695,
