@@ -1,0 +1,16 @@
+filename = 'enhanced_attack_indicator-1.0.4+1.20.jar'
+loaders = [ 'fabric' ]
+mcVersions = [ '1.20', '1.20.1' ]
+name = 'Enhanced Attack Indicator'
+releaseType = 'release'
+side = 'client'
+
+[download]
+hash = '825ecea8a945f707f9f4512cf2f6996a689a8657bade71ace1926cbd2724b671e58ad25fda025c48e7186682e7e3ac64c96cc932c08b3fa0028edc4d8d7d5205'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/eTy17BBS/versions/p65pjOle/enhanced_attack_indicator-1.0.4%2B1.20.jar'
+
+[update.modrinth]
+mod-id = 'eTy17BBS'
+version = 'p65pjOle'

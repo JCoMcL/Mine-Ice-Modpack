@@ -1,0 +1,16 @@
+filename = 'reacharound+1.20-1.3.0.jar'
+loaders = [ 'fabric', 'quilt' ]
+mcVersions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
+name = 'Reacharound'
+releaseType = 'release'
+side = 'client'
+
+[download]
+hash = '832858a9d546ad343b4ac077d1e9dcd5e1a0be7f7057274e29ca0e1d9594c78f44ffbe0c796118556af529cf431ad8e2800b14cde986f52c0fe8b8f49eeff7d0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/r3VgI4QN/versions/29DyXaiq/reacharound%2B1.20-1.3.0.jar'
+
+[update.modrinth]
+mod-id = 'r3VgI4QN'
+version = '29DyXaiq'

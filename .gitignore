@@ -25,3 +25,4 @@ config/voicechat/username-cache.json
 config/voicechat/voicechat-volumes.properties
 
 .bobby
+emi.json
