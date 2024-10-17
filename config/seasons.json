@@ -35,7 +35,7 @@
     "minecraft:sunflower_plains",
     "minecraft:stony_peaks"
   ],
-  "isSeasonTiedWithSystemTime": false,
+  "isSeasonTiedWithSystemTime": true,
   "isInNorthHemisphere": true,
   "isFallAndSpringReversed": false,
   "isSeasonMessingCrops": true,
