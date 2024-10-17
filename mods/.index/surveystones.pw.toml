@@ -1,0 +1,16 @@
+filename = 'surveystones-1.3.1+1.20.jar'
+loaders = [ 'forge', 'fabric', 'quilt' ]
+mcVersions = [ '1.20.1' ]
+name = 'Surveystones'
+releaseType = 'release'
+side = 'both'
+
+[download]
+hash = '27452d5859847cd8513e1fd3ef05bd9ef87907cebdf6d83eaec05734b878c1319b29cc4f903fd25482a1b2ad4e3cd77b58de6133925d6561fe8ecb4c6d1d7070'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/f3WJvB4r/versions/uCGKKBKc/surveystones-1.3.1%2B1.20.jar'
+
+[update.modrinth]
+mod-id = 'f3WJvB4r'
+version = 'uCGKKBKc'

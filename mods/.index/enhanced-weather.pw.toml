@@ -1,0 +1,16 @@
+filename = 'enhancedweather-1.1-Alpha2.jar'
+loaders = [ 'fabric', 'quilt' ]
+mcVersions = [ '1.20.1' ]
+name = 'Enhanced Weather'
+releaseType = 'alpha'
+side = 'both'
+
+[download]
+hash = '3438e513d0366e03561805635a77435ead5bb816dc37c213b0b78f657e6e617da30f689f52f6ca4139997c254cce2a4fe512985ad97c6f17e76f162d69384f27'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/NDrgrF35/versions/VzgOMMyW/enhancedweather-1.1-Alpha2.jar'
+
+[update.modrinth]
+mod-id = 'NDrgrF35'
+version = 'VzgOMMyW'

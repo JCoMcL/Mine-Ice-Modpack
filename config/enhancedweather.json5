@@ -1,0 +1,18 @@
+{
+	"Client_ParticleRain": true,
+	"Client_ShowRainbow": true,
+	"Client_CloudRadius": 9,
+	"Weather_ReducedRainFronts": false,
+	"Weather_TornadoMinimumWind": 50,
+	"Weather_TornadoSpawnChance": 100,
+	"Wind_LowWindChance": 4000,
+	"Wind_HighWindChance": 8000,
+	"Wind_LowWindBaseTime": 2400,
+	"Wind_LowWindExtraTime": 12000,
+	"Wind_HighWindBaseTime": 2400,
+	"Wind_HighWindExtraTime": 12000,
+	"Wind_LowWindThreshold": 5,
+	"Misc_DimensionWhitelist": [
+		"minecraft:overworld"
+	]
+}

@@ -1,9 +1,11 @@
 {
   "allowMovement": {
     "net.minecraft.class_434": true,
-    "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true
+    "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
+    "sh.talonfloof.enhancedweather.screen.RadarScreen": true
   },
   "hideBackground": {
-    "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true
+    "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
+    "sh.talonfloof.enhancedweather.screen.RadarScreen": true
   }
 }
