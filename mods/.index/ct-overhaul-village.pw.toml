@@ -1,0 +1,16 @@
+filename = '[Fabric]CTOV-3-4-9a.jar'
+loaders = [ 'fabric' ]
+mcVersions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6' ]
+name = "ChoiceTheorem's Overhauled Village"
+releaseType = 'release'
+side = 'server'
+
+[download]
+hash = '49f75295fc1d1851c6b4ce017c4314b10bfed546e803cd24e6cc9d93d47db4c45698fb41c0cadf2a43646c7c42f56aff55186ccde2faca2d2db193cb3c03077e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fgmhI8kH/versions/CGCwEJfv/%5BFabric%5DCTOV-3-4-9a.jar'
+
+[update.modrinth]
+mod-id = 'fgmhI8kH'
+version = 'CGCwEJfv'
