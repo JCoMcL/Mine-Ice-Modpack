@@ -1,9 +1,7 @@
-icon.png
-
-*.disabled
-
+/.cache
 /.fabric
 /coremods
+/crash-reports
 /data
 /logs
 /mods/*.jar
@@ -13,4 +11,10 @@ icon.png
 /server-resource-packs
 /shaderpacks
 /texturepacks
+/icon.png
 /usercache.json
+
+*.disabled
+
+config/indium-renderer.properties
+config/fabric/indigo-renderer.properties
