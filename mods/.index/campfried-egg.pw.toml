@@ -1,0 +1,16 @@
+filename = 'campfriedegg-1.0.1+1.20.1.jar'
+loaders = [ 'fabric' ]
+mcVersions = [ '1.20', '1.20.1' ]
+name = 'Campfried Egg'
+releaseType = 'release'
+side = 'both'
+
+[download]
+hash = '38423fc0631032d6d30d0a2541d0a709ab2ef31455a43445eadd32b9c3f341850dc8eb967d1bc92b3a45518e921fc6c59e2f89a5d45fc877b880c7683f9eee7a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/X9RYCN8m/versions/Sxh84Njw/campfriedegg-1.0.1%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'X9RYCN8m'
+version = 'Sxh84Njw'

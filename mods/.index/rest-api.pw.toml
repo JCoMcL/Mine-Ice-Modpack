@@ -1,0 +1,16 @@
+filename = 'restApi-0.10.1-1.20.1-fabric.jar'
+loaders = [ 'fabric' ]
+mcVersions = [ '1.20.1' ]
+name = 'RestApi'
+releaseType = 'beta'
+side = 'both'
+
+[download]
+hash = '87815096c217ebab0cf6b45461925ebf31bb50e5476c23a613529ac9ed2003500f1286807165d2294ce690cb3fe299efb87988f78db81db38a94e91eebf30385'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/mPg0PTH3/versions/oTZkEDGo/restApi-0.10.1-1.20.1-fabric.jar'
+
+[update.modrinth]
+mod-id = 'mPg0PTH3'
+version = 'oTZkEDGo'

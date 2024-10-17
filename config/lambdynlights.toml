@@ -61,8 +61,15 @@ mode = "fancy"
 				chest_minecart = true
 				lightning_bolt = true
 				slime = true
+				experience_orb = true
+				pufferfish = true
+				donkey = true
+				llama = true
 
 			[light_sources.settings.entities.swampier_swamps]
 				swamp_gas = true
 				dragonfly = true
+
+			[light_sources.settings.entities.yungscavebiomes]
+				sand_snapper = true
 
