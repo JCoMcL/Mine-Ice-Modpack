@@ -23,6 +23,8 @@ config/fabric/indigo-renderer.properties
 config/enhanced_bes.properties
 config/voicechat/username-cache.json
 config/voicechat/voicechat-volumes.properties
+config/roughlyenoughitems/*
+!config/roughlyenoughitems/config.json5
 
 .bobby
 emi.json
