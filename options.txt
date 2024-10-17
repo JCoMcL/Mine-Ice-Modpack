@@ -43,8 +43,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["fabric","seasons:seasonal_lush_caves","presencefootsteps:default_sound_pack","minecraft:supporteatinganimation"]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","fabric","seasons:seasonal_lush_caves","presencefootsteps:default_sound_pack","minecraft:supporteatinganimation","Moonlight Mods Dynamic Assets","file/Connected Paths v1.2.zip","file/better_flame_particles-v2.1-mc1.14x-1.21x-resourcepack.zip","file/xali\u0027s Bushy Leaves v3.5.0.zip","file/Connected Chiseled Bookshelf.zip","file/BabyAnimalsRemastered_1.21_v1.3.zip","file/Connected Vanilla Textures (1.20.2).zip","file/Fancy Crops v1.0 f5-34.zip","file/[1.4.1] Enhanced Boss Bars.zip","file/EvenBetterEnchants_v2_r1.zip","file/MandalasGUI_Dakmode_Vanilla1.20.4.zip","file/Icons v.1.11.3.zip","file/Icons+Menu+(Put+Above+Icons).zip","continuity:glass_pane_culling_fix"]
+incompatibleResourcePacks:["file/BabyAnimalsRemastered_1.21_v1.3.zip","file/Connected Vanilla Textures (1.20.2).zip","file/Fancy Crops v1.0 f5-34.zip","file/[1.4.1] Enhanced Boss Bars.zip","file/EvenBetterEnchants_v2_r1.zip","file/MandalasGUI_Dakmode_Vanilla1.20.4.zip","file/Icons v.1.11.3.zip"]
 lastServer:
 lang:en_us
 soundDevice:""
@@ -77,7 +77,7 @@ skipMultiplayerWarning:true
 skipRealms32bitWarning:false
 hideMatchedNames:true
 joinedFirstServer:false
-hideBundleTutorial:false
+hideBundleTutorial:true
 syncChunkWrites:false
 showAutosaveIndicator:true
 allowServerListing:true
@@ -133,6 +133,17 @@ key_key.amecs.toggle_right_pants_leg:key.keyboard.unknown
 key_key.amecs.toggle_hat:key.keyboard.unknown
 key_key.carry.desc:key.keyboard.unknown
 key_key.crawl:key.keyboard.c
+key_key.do_a_barrel_roll.toggle_enabled:key.keyboard.i
+key_key.do_a_barrel_roll.toggle_thrust:key.keyboard.unknown
+key_key.do_a_barrel_roll.open_config:key.keyboard.unknown
+key_key.do_a_barrel_roll.pitch_up:key.keyboard.unknown
+key_key.do_a_barrel_roll.pitch_down:key.keyboard.unknown
+key_key.do_a_barrel_roll.yaw_left:key.keyboard.a
+key_key.do_a_barrel_roll.yaw_right:key.keyboard.d
+key_key.do_a_barrel_roll.roll_left:key.keyboard.unknown
+key_key.do_a_barrel_roll.roll_right:key.keyboard.unknown
+key_key.do_a_barrel_roll.thrust_forward:key.keyboard.w
+key_key.do_a_barrel_roll.thrust_backward:key.keyboard.unknown
 key_equipmentcompare.key.showTooltips:key.keyboard.left.shift
 key_keybind.invmove.toggleMove:key.keyboard.w
 key_key.map_atlases.open_minimap:key.keyboard.m

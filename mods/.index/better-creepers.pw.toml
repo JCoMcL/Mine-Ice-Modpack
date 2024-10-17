@@ -1,0 +1,16 @@
+filename = 'better-creepers-1.1.jar'
+loaders = [ 'forge', 'fabric', 'quilt' ]
+mcVersions = [ '1.20', '1.20.1' ]
+name = 'Better Creepers'
+releaseType = 'release'
+side = 'server'
+
+[download]
+hash = '9d34be7a1719e185abb3604bc91b11a9de5108bc33b2f2edf99af8e97339745781a611a3408650793bb27841bf37cb9e13173d87f41249ea7c457450b90e3741'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/rF6T5Zrw/versions/vzffYbgp/better-creepers-1.1.jar'
+
+[update.modrinth]
+mod-id = 'rF6T5Zrw'
+version = 'vzffYbgp'

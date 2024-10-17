@@ -1,0 +1,16 @@
+filename = 'timecontrol-1.20.1-1.6.0.jar'
+loaders = [ 'fabric' ]
+mcVersions = [ '1.20.1' ]
+name = 'Time Control'
+releaseType = 'release'
+side = 'both'
+
+[download]
+hash = '55f45efdccf1bfe42f96df9818246ecf57edbd4f2473a4e680757da94aa9fafb26e330f037cb3ae8a1da13d41ce10a6f0eee6b7444871dfa576022775f5b1b33'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Mksh0eV4/versions/vR2UrOZJ/timecontrol-1.20.1-1.6.0.jar'
+
+[update.modrinth]
+mod-id = 'Mksh0eV4'
+version = 'vR2UrOZJ'

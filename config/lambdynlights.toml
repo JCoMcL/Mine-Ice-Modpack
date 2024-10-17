@@ -46,4 +46,23 @@ mode = "fancy"
 				boat = true
 				zombie_villager = true
 				witch = true
+				turtle = true
+				fox = true
+				cave_spider = true
+				axolotl = true
+				villager = true
+				frog = true
+				cat = true
+				iron_golem = true
+				horse = true
+				dolphin = true
+				tropical_fish = true
+				tnt_minecart = true
+				chest_minecart = true
+				lightning_bolt = true
+				slime = true
+
+			[light_sources.settings.entities.swampier_swamps]
+				swamp_gas = true
+				dragonfly = true
 

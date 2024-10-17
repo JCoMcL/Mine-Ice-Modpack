@@ -45,6 +45,17 @@ key_modifiers_key.amecs.toggle_right_pants_leg:0,0,0
 key_modifiers_key.amecs.toggle_hat:0,0,0
 key_modifiers_key.carry.desc:0,0,0
 key_modifiers_key.crawl:0,0,0
+key_modifiers_key.do_a_barrel_roll.toggle_enabled:0,0,0
+key_modifiers_key.do_a_barrel_roll.toggle_thrust:0,0,0
+key_modifiers_key.do_a_barrel_roll.open_config:0,0,0
+key_modifiers_key.do_a_barrel_roll.pitch_up:0,0,0
+key_modifiers_key.do_a_barrel_roll.pitch_down:0,0,0
+key_modifiers_key.do_a_barrel_roll.yaw_left:0,0,0
+key_modifiers_key.do_a_barrel_roll.yaw_right:0,0,0
+key_modifiers_key.do_a_barrel_roll.roll_left:0,0,0
+key_modifiers_key.do_a_barrel_roll.roll_right:0,0,0
+key_modifiers_key.do_a_barrel_roll.thrust_forward:0,0,0
+key_modifiers_key.do_a_barrel_roll.thrust_backward:0,0,0
 key_modifiers_equipmentcompare.key.showTooltips:0,0,0
 key_modifiers_keybind.invmove.toggleMove:0,1,0
 key_modifiers_key.map_atlases.open_minimap:0,0,0
