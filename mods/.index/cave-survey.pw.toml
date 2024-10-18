@@ -1,0 +1,16 @@
+filename = 'cave-survey-1.1.0.jar'
+loaders = [ 'fabric' ]
+mcVersions = [ '1.20', '1.20.1' ]
+name = 'Cave Survey'
+releaseType = 'release'
+side = 'server'
+
+[download]
+hash = '3d95e24841928cf27080364c9eca8edc6ca544cf77b2948707c0391a46fc416036727dc8091e44a6e557e4010068dae1ea688050d1ce0dfa4bd8d839af7f1626'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/tjrUvbJd/versions/UXIR1Beo/cave-survey-1.1.0.jar'
+
+[update.modrinth]
+mod-id = 'tjrUvbJd'
+version = 'UXIR1Beo'

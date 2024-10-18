@@ -1,0 +1,16 @@
+filename = 'naturalist-fabric-4.0.3-1.20.1.jar'
+loaders = [ 'fabric' ]
+mcVersions = [ '1.20.1' ]
+name = 'Naturalist'
+releaseType = 'beta'
+side = 'server'
+
+[download]
+hash = '309142b01014a047cf8cbdded96b085ca59fac85'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4847007
+project-id = 627986

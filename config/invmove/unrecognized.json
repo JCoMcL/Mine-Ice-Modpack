@@ -9,6 +9,7 @@
   "hideBackground": {
     "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
     "sh.talonfloof.enhancedweather.screen.RadarScreen": true,
-    "com.talhanation.smallships.client.gui.screens.inventory.ShipContainerScreen": true
+    "com.talhanation.smallships.client.gui.screens.inventory.ShipContainerScreen": true,
+    "io.ejekta.bountiful.client.BoardScreen": true
   }
 }

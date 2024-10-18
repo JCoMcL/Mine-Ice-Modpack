@@ -1,0 +1,16 @@
+filename = 'PureCopperTools-v1.0.1-1.20.1-Fabric.jar'
+loaders = [ 'fabric', 'quilt' ]
+mcVersions = [ '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
+name = 'Pure Copper Tools'
+releaseType = 'release'
+side = 'both'
+
+[download]
+hash = '6e91605cdea9e98f001270e95f23d76e38e7fb23b5ca2eb75ff69c587d178b36b9e3a92c81e1a2bd84a0dc4b49390f02541e45ac1a154986b7bcee4b880beb73'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/hUL2cjNA/versions/6FZ7oFBa/PureCopperTools-v1.0.1-1.20.1-Fabric.jar'
+
+[update.modrinth]
+mod-id = 'hUL2cjNA'
+version = '6FZ7oFBa'

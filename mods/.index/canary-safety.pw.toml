@@ -1,0 +1,16 @@
+filename = 'canary-1.1.11.jar'
+loaders = [ 'fabric', 'quilt' ]
+mcVersions = [ '1.19.2', '1.19.3', '1.19.4', '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
+name = 'Canary'
+releaseType = 'release'
+side = 'both'
+
+[download]
+hash = '6fa0a55edd56a9d4cba193ddcd8b18e272990a03879cafb93878575218b04cee7908427b302d5a987a0fc996c7c7cb71b4fdff3440aa83bac95033a83b3d5625'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/iCRO1YNs/versions/LCBudaLC/canary-1.1.11.jar'
+
+[update.modrinth]
+mod-id = 'iCRO1YNs'
+version = 'LCBudaLC'

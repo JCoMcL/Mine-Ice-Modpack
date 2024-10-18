@@ -1,0 +1,16 @@
+filename = 'spirit-walker-0.1.5+1.20.jar'
+loaders = [ 'fabric', 'quilt' ]
+mcVersions = [ '1.20', '1.20.1' ]
+name = 'Spirit Walker'
+releaseType = 'release'
+side = 'both'
+
+[download]
+hash = 'fc36cac1398fd1bad4d64771f54a034f20f0f4ea7653ae397f973faa17bbe156dd03c91d60c526fba5385dc9a5f83407ec611d532658e49ff0edd81d553bed3c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/zbX4s3vj/versions/OiZK261v/spirit-walker-0.1.5%2B1.20.jar'
+
+[update.modrinth]
+mod-id = 'zbX4s3vj'
+version = 'OiZK261v'

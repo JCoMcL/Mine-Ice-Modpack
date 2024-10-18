@@ -1,0 +1,16 @@
+filename = 'CopperandTuffBackport-1.2.jar'
+loaders = [ 'fabric', 'quilt' ]
+mcVersions = [ '1.20.1', '1.20.2' ]
+name = 'Copper & Tuff Backport (from 1.21) [Fabric | Forge]'
+releaseType = 'release'
+side = 'both'
+
+[download]
+hash = 'dc57968ed2f5c8a0f864a71f9822417921a690b5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5081305
+project-id = 950738

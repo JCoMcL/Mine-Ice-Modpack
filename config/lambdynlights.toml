@@ -71,6 +71,10 @@ mode = "fancy"
 				stray = true
 				skeleton_horse = true
 				arrow = true
+				goat = true
+				ravager = true
+				armor_stand = true
+				pillager = true
 
 			[light_sources.settings.entities.swampier_swamps]
 				swamp_gas = true
@@ -92,4 +96,16 @@ mode = "fancy"
 				aberration = true
 				mohast = true
 				miraid = true
+
+			[light_sources.settings.entities.naturalist]
+				snail = true
+				firefly = true
+				robin = true
+				lizard = true
+				deer = true
+				boar = true
+				butterfly = true
+
+			[light_sources.settings.entities.friendsandfoes]
+				copper_golem = true
 

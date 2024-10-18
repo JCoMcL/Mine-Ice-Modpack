@@ -1,0 +1,16 @@
+filename = 'library-fabric-20.1.5.jar'
+loaders = [ 'fabric' ]
+mcVersions = [ '1.20.1', '1.20.2' ]
+name = 'Phantom Loader'
+releaseType = 'release'
+side = 'both'
+
+[download]
+hash = '84405f8899fd5b212fd2ebb34724b22ff4aa698c0797ceb95a38455755965851763b18c13f1ba87e92126e314b38fe907324442037c53c2ccfdbe4dc734f3b98'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/mWdDy9A0/versions/vkAgziWj/library-fabric-20.1.5.jar'
+
+[update.modrinth]
+mod-id = 'mWdDy9A0'
+version = 'vkAgziWj'

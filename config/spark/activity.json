@@ -5,6 +5,19 @@
       "name": "jcomcl",
       "uniqueId": "c392bc36-586f-433f-a6f5-204f35055380"
     },
+    "time": 1729277923800,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/1cam9Mfs85"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "jcomcl",
+      "uniqueId": "c392bc36-586f-433f-a6f5-204f35055380"
+    },
     "time": 1729166182999,
     "type": "Profiler",
     "data": {
