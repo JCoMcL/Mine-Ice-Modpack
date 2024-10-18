@@ -1,0 +1,16 @@
+filename = 'lootify-0.1.2+1.20.1.jar'
+loaders = [ 'fabric', 'quilt' ]
+mcVersions = [ '1.20', '1.20.1' ]
+name = 'Lootify'
+releaseType = 'beta'
+side = 'server'
+
+[download]
+hash = '32ff4258e7732a3b91e7e9b2bb5d730fa268140a6702e4ba36b99c5bcf4ec7e8556717327e060cca6167965c67b7b10e4698e6107772b1d6959fc50f137a7e6c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/cpsJaSe5/versions/iCnQMdat/lootify-0.1.2%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'cpsJaSe5'
+version = 'iCnQMdat'
