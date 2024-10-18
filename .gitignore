@@ -17,6 +17,9 @@
 /usernamecache.json
 
 *.disabled
+*.log
+*.bak
+*.zip
 
 config/indium-renderer.properties
 config/fabric/indigo-renderer.properties
@@ -25,6 +28,7 @@ config/voicechat/username-cache.json
 config/voicechat/voicechat-volumes.properties
 config/roughlyenoughitems/*
 !config/roughlyenoughitems/config.json5
+config/spark/tmp
 
 .bobby
 emi.json

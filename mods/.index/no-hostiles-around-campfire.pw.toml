@@ -1,0 +1,16 @@
+filename = 'nohostilesaroundcampfire-1.20.1-7.1.jar'
+loaders = [ 'neoforge', 'forge', 'fabric', 'quilt' ]
+mcVersions = [ '1.20.1' ]
+name = 'No Hostiles Around Campfire'
+releaseType = 'release'
+side = 'server'
+
+[download]
+hash = '811dde6a49773f19c3e0a189fdd780fb1c70bfd7c1514e3a7851525cdaaa1142394081b80dc9c8a3e2366dcb8f519e2650bec30157a53122c4d520f286dc1971'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/EJqeyaVz/versions/tEq0j3Mh/nohostilesaroundcampfire-1.20.1-7.1.jar'
+
+[update.modrinth]
+mod-id = 'EJqeyaVz'
+version = 'tEq0j3Mh'

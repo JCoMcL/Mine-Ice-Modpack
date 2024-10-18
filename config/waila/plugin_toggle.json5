@@ -4,5 +4,6 @@
   "waila:harvest": true,
   "waila:extra": true,
   "waila:fabric": true,
-  "reputation:plugin": true
+  "reputation:plugin": true,
+  "polymer:core": true
 }

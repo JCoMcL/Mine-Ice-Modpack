@@ -65,6 +65,12 @@ mode = "fancy"
 				pufferfish = true
 				donkey = true
 				llama = true
+				item_frame = true
+				rabbit = true
+				polar_bear = true
+				stray = true
+				skeleton_horse = true
+				arrow = true
 
 			[light_sources.settings.entities.swampier_swamps]
 				swamp_gas = true
@@ -72,4 +78,18 @@ mode = "fancy"
 
 			[light_sources.settings.entities.yungscavebiomes]
 				sand_snapper = true
+				ice_cube = true
+
+			[light_sources.settings.entities.smallships]
+				brigg = true
+				galley = true
+
+			[light_sources.settings.entities.immersive_portals]
+				nether_portal_new = true
+
+			[light_sources.settings.entities.darkwaters]
+				craeken = true
+				aberration = true
+				mohast = true
+				miraid = true
 

@@ -2,10 +2,13 @@
   "allowMovement": {
     "net.minecraft.class_434": true,
     "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
-    "sh.talonfloof.enhancedweather.screen.RadarScreen": true
+    "sh.talonfloof.enhancedweather.screen.RadarScreen": true,
+    "org.valkyrienskies.eureka.gui.shiphelm.ShipHelmScreen": true,
+    "com.talhanation.smallships.client.gui.screens.inventory.ShipContainerScreen": true
   },
   "hideBackground": {
     "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
-    "sh.talonfloof.enhancedweather.screen.RadarScreen": true
+    "sh.talonfloof.enhancedweather.screen.RadarScreen": true,
+    "com.talhanation.smallships.client.gui.screens.inventory.ShipContainerScreen": true
   }
 }

@@ -1,0 +1,36 @@
+filename = 'gen_assets.zip'
+loaders = []
+mcVersions = [
+    '1.16',
+    '1.16.1',
+    '1.16.2',
+    '1.16.3',
+    '1.16.4',
+    '1.16.5',
+    '1.17',
+    '1.17.1',
+    '1.18',
+    '1.18.1',
+    '1.18.2',
+    '1.19',
+    '1.19.1',
+    '1.19.2',
+    '1.19.3',
+    '1.19.4',
+    '1.20',
+    '1.20.1',
+    '1.20.2'
+]
+name = 'Gen Assets'
+releaseType = 'release'
+side = 'client'
+
+[download]
+hash = 'edc3eef8f6b526c48ed3ffdb5fb9a8a89cea340497d6138ea21d0ac8e518bf4f8bb0b3bdc46b22dc3445ce3e83ecf1b717f61dc87a8e439c97e3e4c0acd8d6a9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ZRGZa67i/versions/BBrp3RXs/gen_assets.zip'
+
+[update.modrinth]
+mod-id = 'ZRGZa67i'
+version = 'BBrp3RXs'
