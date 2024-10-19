@@ -1,0 +1,16 @@
+filename = 'MRU-1.0.2+1.20.1+fabric.jar'
+loaders = [ 'fabric' ]
+mcVersions = [ '1.20', '1.20.1' ]
+name = 'M.R.U'
+releaseType = 'release'
+side = 'both'
+
+[download]
+hash = '2a824dfff78b50f6997edfac1263418ef961584bd12f825654ba93d7924759916d281f2c58d31e546f861f2514cc7907aede5442841b16ddde532623b68243cb'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/SNVQ2c0g/versions/nMynfQWi/MRU-1.0.2%2B1.20.1%2Bfabric.jar'
+
+[update.modrinth]
+mod-id = 'SNVQ2c0g'
+version = 'nMynfQWi'

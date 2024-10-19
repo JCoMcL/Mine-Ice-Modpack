@@ -1,0 +1,16 @@
+filename = 'Almanac-0.6.0.jar'
+loaders = [ 'fabric' ]
+mcVersions = [ '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6' ]
+name = 'Almanac for Spyglass Astronomy'
+releaseType = 'release'
+side = 'both'
+
+[download]
+hash = 'a744e5559f7fc8f3f2991e93186acc06b03dbfeeea049f902b22e2c9d0ea7b0891dc394e6ca42312fdf505f0e862c3ebdd33594aec0432c22636ca6301344a2c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/rhj2L1Jf/versions/zzzrZzXn/Almanac-0.6.0.jar'
+
+[update.modrinth]
+mod-id = 'rhj2L1Jf'
+version = 'zzzrZzXn'

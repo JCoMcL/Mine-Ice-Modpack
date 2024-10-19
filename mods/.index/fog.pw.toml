@@ -1,0 +1,16 @@
+filename = 'Fog-fabric-1.4.1-1.20.1.jar'
+loaders = [ 'fabric' ]
+mcVersions = [ '1.20', '1.20.1' ]
+name = 'Fog'
+releaseType = 'release'
+side = 'client'
+
+[download]
+hash = 'db3122f1d4f9c33784534758eafb5d062d2e3ce5f66046037079f0fde82d2dbe1b064a3d022983a36c47c669ffac6443f09e6589a6f1203d4294194039fc2a2e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/WuGVWUF2/versions/TZOHZ8E3/Fog-fabric-1.4.1-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'WuGVWUF2'
+version = 'TZOHZ8E3'

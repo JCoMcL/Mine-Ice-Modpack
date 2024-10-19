@@ -4,12 +4,14 @@
     "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
     "sh.talonfloof.enhancedweather.screen.RadarScreen": true,
     "org.valkyrienskies.eureka.gui.shiphelm.ShipHelmScreen": true,
-    "com.talhanation.smallships.client.gui.screens.inventory.ShipContainerScreen": true
+    "com.talhanation.smallships.client.gui.screens.inventory.ShipContainerScreen": true,
+    "immersive_aircraft.client.gui.VehicleScreen": true
   },
   "hideBackground": {
     "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
     "sh.talonfloof.enhancedweather.screen.RadarScreen": true,
     "com.talhanation.smallships.client.gui.screens.inventory.ShipContainerScreen": true,
-    "io.ejekta.bountiful.client.BoardScreen": true
+    "io.ejekta.bountiful.client.BoardScreen": true,
+    "immersive_aircraft.client.gui.VehicleScreen": true
   }
 }

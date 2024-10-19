@@ -75,6 +75,11 @@ mode = "fancy"
 				ravager = true
 				armor_stand = true
 				pillager = true
+				elder_guardian = true
+				zombified_piglin = true
+				piglin = true
+				strider = true
+				guardian = true
 
 			[light_sources.settings.entities.swampier_swamps]
 				swamp_gas = true
@@ -90,6 +95,7 @@ mode = "fancy"
 
 			[light_sources.settings.entities.immersive_portals]
 				nether_portal_new = true
+				loading_indicator = true
 
 			[light_sources.settings.entities.darkwaters]
 				craeken = true
@@ -105,7 +111,26 @@ mode = "fancy"
 				deer = true
 				boar = true
 				butterfly = true
+				bear = true
+				bass = true
+				snake = true
+				sparrow = true
+				finch = true
+				cardinal = true
+				duck = true
+				elephant = true
+				zebra = true
+				rattlesnake = true
+				rhino = true
+				coral_snake = true
+				lion = true
 
 			[light_sources.settings.entities.friendsandfoes]
 				copper_golem = true
+				crab = true
+				rascal = true
+				mauler = true
+
+			[light_sources.settings.entities.immersive_aircraft]
+				biplane = true
 
