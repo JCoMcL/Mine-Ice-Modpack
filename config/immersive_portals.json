@@ -44,6 +44,7 @@
   "enableImmPtlChunkLoading": true,
   "disabledWarnings": [
     "voicechat",
-    "many_mods"
+    "many_mods",
+    "collective"
   ]
 }

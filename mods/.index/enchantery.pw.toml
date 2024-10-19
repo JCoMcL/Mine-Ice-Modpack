@@ -1,0 +1,16 @@
+filename = 'enchantery-1.20.1-0.0.9-fabric.jar'
+loaders = [ 'fabric' ]
+mcVersions = [ '1.20.1' ]
+name = 'Enchantery'
+releaseType = 'release'
+side = 'both'
+
+[download]
+hash = '6c5c649284e7dc4ca50c54d010760f38c6cef716b500c9cfc3f5b8ff3c96f673e574afd89db195fe8b8f46c07799532ff6ae93dca2b951a5aea064499aab4aa5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/IAmBzGUb/versions/vM5n9ajI/enchantery-1.20.1-0.0.9-fabric.jar'
+
+[update.modrinth]
+mod-id = 'IAmBzGUb'
+version = 'vM5n9ajI'

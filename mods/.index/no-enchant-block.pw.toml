@@ -1,0 +1,16 @@
+filename = 'no-enchant-block-2.1.jar'
+loaders = [ 'forge', 'fabric', 'quilt' ]
+mcVersions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6', '1.21' ]
+name = 'No Enchant Block'
+releaseType = 'release'
+side = 'both'
+
+[download]
+hash = '64eaea4c6f6e49def92f1d93114b797df8ed480c042f004f932b259a510769c7ee63a66f77ef5265fe443e2717d42f3bc3ea9b4ec0a9aa7fba1ce3df5c473eab'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/wP2OLp8w/versions/cIXTmERH/no-enchant-block-2.1.jar'
+
+[update.modrinth]
+mod-id = 'wP2OLp8w'
+version = 'cIXTmERH'
