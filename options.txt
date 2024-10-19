@@ -43,8 +43,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","seasons:seasonal_lush_caves","presencefootsteps:default_sound_pack","minecraft:supporteatinganimation","Moonlight Mods Dynamic Assets","file/Connected Paths v1.2.zip","file/better_flame_particles-v2.1-mc1.14x-1.21x-resourcepack.zip","file/Connected Chiseled Bookshelf.zip","file/Connected Vanilla Textures (1.20.2).zip","file/Fancy Crops v1.0 f5-34.zip","file/[1.4.1] Enhanced Boss Bars.zip","file/EvenBetterEnchants_v2_r1.zip","continuity:glass_pane_culling_fix","file/Simple Grass Flowers v1.8.1.zip"]
-incompatibleResourcePacks:["file/Connected Vanilla Textures (1.20.2).zip","file/Fancy Crops v1.0 f5-34.zip","file/[1.4.1] Enhanced Boss Bars.zip","file/EvenBetterEnchants_v2_r1.zip","file/Simple Grass Flowers v1.8.1.zip"]
+resourcePacks:["vanilla","fabric","seasons:seasonal_lush_caves","presencefootsteps:default_sound_pack","minecraft:supporteatinganimation","Moonlight Mods Dynamic Assets","file/Connected Paths v1.2.zip","file/better_flame_particles-v2.1-mc1.14x-1.21x-resourcepack.zip","file/Connected Chiseled Bookshelf.zip","file/Connected Vanilla Textures (1.20.2).zip","file/Fancy Crops v1.0 f5-34.zip","file/[1.4.1] Enhanced Boss Bars.zip","file/EvenBetterEnchants_v2_r1.zip","continuity:glass_pane_culling_fix","file/Simple Grass Flowers v1.8.1.zip","immersive_weathering:visual_waxed_iron_items","spelunkery:better_vanilla_gems","file/xali\u0027s Bushy Leaves v3.5.0.zip"]
+incompatibleResourcePacks:["file/Connected Vanilla Textures (1.20.2).zip","file/Fancy Crops v1.0 f5-34.zip","file/[1.4.1] Enhanced Boss Bars.zip","file/EvenBetterEnchants_v2_r1.zip","file/Simple Grass Flowers v1.8.1.zip","immersive_weathering:visual_waxed_iron_items"]
 lastServer:
 lang:en_us
 soundDevice:""
@@ -166,6 +166,7 @@ key_supplementaries.keybind.quiver:key.keyboard.b
 key_key.presencefootsteps.settings:key.keyboard.f10
 key_key.presencefootsteps.toggle:key.keyboard.unknown
 key_key.smallships.ship_sail:key.keyboard.r
+key_key.veinmining.activate.desc:key.keyboard.unknown
 key_key.push_to_talk:key.keyboard.unknown
 key_key.whisper:key.keyboard.unknown
 key_key.mute_microphone:key.keyboard.m

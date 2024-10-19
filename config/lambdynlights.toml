@@ -136,3 +136,6 @@ mode = "fancy"
 				biplane = true
 				gyrodyne = true
 
+			[light_sources.settings.entities.sleep_tight]
+				bed_entity = true
+

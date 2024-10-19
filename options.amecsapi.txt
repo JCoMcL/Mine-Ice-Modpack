@@ -78,6 +78,7 @@ key_modifiers_supplementaries.keybind.quiver:0,0,0
 key_modifiers_key.presencefootsteps.settings:0,0,0
 key_modifiers_key.presencefootsteps.toggle:0,0,0
 key_modifiers_key.smallships.ship_sail:0,0,0
+key_modifiers_key.veinmining.activate.desc:0,0,0
 key_modifiers_key.push_to_talk:0,0,0
 key_modifiers_key.whisper:0,0,0
 key_modifiers_key.mute_microphone:0,0,0
