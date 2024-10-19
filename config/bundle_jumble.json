@@ -1,7 +1,7 @@
 {
-  "shift_drops_items": false,
+  "shift_drops_items": true,
   "more_bunnies": true,
-  "automatic_refill": true,
+  "automatic_refill": false,
   "refill_searches_hotbar": false,
-  "enable_leather_recipe": false
+  "enable_leather_recipe": true
 }
