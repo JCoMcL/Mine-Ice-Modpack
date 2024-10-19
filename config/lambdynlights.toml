@@ -80,6 +80,7 @@ mode = "fancy"
 				piglin = true
 				strider = true
 				guardian = true
+				magma_cube = true
 
 			[light_sources.settings.entities.swampier_swamps]
 				swamp_gas = true
@@ -133,4 +134,5 @@ mode = "fancy"
 
 			[light_sources.settings.entities.immersive_aircraft]
 				biplane = true
+				gyrodyne = true
 

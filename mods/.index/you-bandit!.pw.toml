@@ -1,0 +1,16 @@
+filename = 'you-bandit!-2.2.jar'
+loaders = [ 'forge', 'fabric', 'quilt' ]
+mcVersions = [ '1.19', '1.19.1', '1.19.2', '1.19.4', '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
+name = 'You  Bandit!'
+releaseType = 'release'
+side = 'server'
+
+[download]
+hash = 'f2f36a51c7ed2dc15e25034b12e1a2c6879a086d206274ded9443c7c0c77b9ae306deb73d8b0c893dd2fafd599a81ad84da1ea346ef6b44c8f448c2d93578169'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/FDbnFfSg/versions/LW1irqmE/you-bandit%21-2.2.jar'
+
+[update.modrinth]
+mod-id = 'FDbnFfSg'
+version = 'LW1irqmE'

@@ -1,0 +1,16 @@
+filename = 'villager-transportation-1.3.1.jar'
+loaders = [ 'forge', 'fabric', 'quilt' ]
+mcVersions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
+name = 'Villager Transportation'
+releaseType = 'release'
+side = 'both'
+
+[download]
+hash = '3bf795632dbb2ef1665bc44d8c38433d2ee622bb61236570f202e352d48badc6d9697d071b3c895a3b9e083b095a7f106b182ae7cd3041f83b645799995232e6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/vLUPqRLH/versions/c6BtwQYg/villager-transportation-1.3.1.jar'
+
+[update.modrinth]
+mod-id = 'vLUPqRLH'
+version = 'c6BtwQYg'

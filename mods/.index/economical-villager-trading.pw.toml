@@ -1,0 +1,16 @@
+filename = 'economical-villager-trading-1.2.10+MC1.20-1.20.1.jar'
+loaders = [ 'fabric', 'quilt' ]
+mcVersions = [ '1.20', '1.20.1' ]
+name = 'Economical Villager Trading'
+releaseType = 'release'
+side = 'server'
+
+[download]
+hash = 'a0ae2cef8818411c49c556bb73bc777b88bdde333a95c78df1a8fc1efb619b0825da0b718a9cc9b921b85c56d7412da3bff215180a14ee8457d8810096c871d1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/MpaztjRf/versions/7nsYl22V/economical-villager-trading-1.2.10%2BMC1.20-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'MpaztjRf'
+version = '7nsYl22V'

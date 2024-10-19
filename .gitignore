@@ -7,6 +7,7 @@
 /data
 /logs
 /mods/*.jar
+/ModTranslations
 /resourcepacks
 /saves
 /screenshots

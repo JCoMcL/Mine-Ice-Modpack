@@ -1,0 +1,16 @@
+filename = 'progressive-raids-1.0.0.jar'
+loaders = [ 'fabric' ]
+mcVersions = [ '1.20.1' ]
+name = 'Progressive Raids'
+releaseType = 'release'
+side = 'both'
+
+[download]
+hash = '649de37ccad01430dd4f54e386c2066733cac906f5e617eab59bc5e02ade94372e36ab241a974d825d4efaff0084eb72ebef2eb4f92940d1a59900510f5a35ce'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/TzaOwk9i/versions/Pi6Fp3w3/progressive-raids-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'TzaOwk9i'
+version = 'Pi6Fp3w3'
