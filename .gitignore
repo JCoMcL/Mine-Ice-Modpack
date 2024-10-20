@@ -16,6 +16,7 @@
 /ModTranslations
 /options.txt
 /panoramas
+/patchouli_books
 /resourcepacks
 /saves
 /screenshots
@@ -25,6 +26,7 @@
 /shaderpacks
 /texturepacks
 /rhino.local.properties
+/patchouli_data.json
 /usercache.json
 /usernamecache.json
 
