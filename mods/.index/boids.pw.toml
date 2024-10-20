@@ -1,0 +1,16 @@
+filename = 'Boids-1.2.2.jar'
+loaders = [ 'fabric' ]
+mcVersions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6' ]
+name = 'Boids'
+releaseType = 'release'
+side = 'server'
+
+[download]
+hash = '6dad511e8cc523d82ab64005664a65ebc1b3c4ab594c4c6da5966d59a825a7ab2157f4ca8cef2fc6bef2bbcf0130300a046b80f0f0390a2c9cdc6f6b26ed60d3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/2OckSy74/versions/14pDAJuk/Boids-1.2.2.jar'
+
+[update.modrinth]
+mod-id = '2OckSy74'
+version = '14pDAJuk'
