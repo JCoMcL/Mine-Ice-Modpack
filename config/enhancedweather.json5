@@ -11,7 +11,7 @@
 	"Wind_LowWindExtraTime": 12000,
 	"Wind_HighWindBaseTime": 2400,
 	"Wind_HighWindExtraTime": 12000,
-	"Wind_LowWindThreshold": 0,
+	"Wind_LowWindThreshold": 2,
 	"Misc_DimensionWhitelist": [
 		"minecraft:overworld"
 	]
