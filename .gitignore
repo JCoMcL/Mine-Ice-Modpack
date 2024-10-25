@@ -32,6 +32,7 @@ config/roughlyenoughitems/*
 !config/roughlyenoughitems/config.json5
 config/spark/tmp
 config/*fingerprint.json
+config/NoChatReports/
 
 .bobby
 emi.json
