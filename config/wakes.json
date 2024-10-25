@@ -6,6 +6,7 @@
 		"boat": "SIMULATION_AND_PLANES",
 		"player": "ONLY_SIMULATION"
 	},
+	"wakesInRunningWater": false,
 	"wavePropagationFactor": 0.949999988079071,
 	"waveDecayFactor": 0.5,
 	"initialStrength": 20,
@@ -15,11 +16,8 @@
 	"disableMod": false,
 	"floodFillDistance": 2,
 	"ticksBeforeFill": 2,
-	"pickBoat": true,
-	"renderType": "GENERAL",
 	"drawDebugBoxes": false,
-	"showDebugInfo": false,
-	"shaderLightPassthrough": 0.5,
+	"renderType": "ENTITY_TRANSLUCENT_CULL",
 	"wakeResolution": "SIXTEEN",
 	"wakeOpacity": 1.0,
 	"firstPersonSplashPlane": false,
@@ -73,9 +71,8 @@
 	"splashPlaneWidth": 2.0,
 	"splashPlaneHeight": 1.5,
 	"splashPlaneDepth": 3.0,
-	"splashPlaneOffset": -0.20000000298023224,
-	"splashPlaneGap": 1.0,
 	"splashPlaneResolution": 5,
 	"maxSplashPlaneVelocity": 0.5,
-	"splashPlaneScale": 0.800000011920929
+	"splashPlaneScale": 0.800000011920929,
+	"splashPlaneOffset": -0.20000000298023224
 }
