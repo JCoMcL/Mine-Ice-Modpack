@@ -1,0 +1,16 @@
+filename = 'midnightlurker-1.20.1-1.0.2.jar'
+loaders = [ 'fabric' ]
+mcVersions = [ '1.20', '1.20.1' ]
+name = 'Midnight Lurker Fabricated'
+releaseType = 'release'
+side = 'both'
+
+[download]
+hash = '95ab4aca0423f3878ed719132beca1ff93d214c9449ed02562fbd2f6d3a69f01f112ac0e192e15afb44cc09de42da0d1c39335986f5d0d7d58826e1f1b86ae89'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/CeYtZkdz/versions/BuMf526W/midnightlurker-1.20.1-1.0.2.jar'
+
+[update.modrinth]
+mod-id = 'CeYtZkdz'
+version = 'BuMf526W'
