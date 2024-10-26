@@ -3,7 +3,7 @@
   "clientPlayerVolume": 100,
   "otherPlayerVolume": 100,
   "hostileEntitiesVolume": 100,
-  "passiveEntitiesVolume": 100,
+  "passiveEntitiesVolume": 26,
   "runningVolumeIncrease": 0,
   "wetSoundsVolume": 50,
   "foliageSoundsVolume": 100,
@@ -16,5 +16,5 @@
   "visualiser": false,
   "exclusive": false,
   "stance": "NONE",
-  "targetEntities": "ALL"
+  "targetEntities": "PLAYERS_AND_HOSTILES"
 }
