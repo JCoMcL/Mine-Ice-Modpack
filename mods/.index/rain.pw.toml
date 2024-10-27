@@ -1,0 +1,31 @@
+filename = 'rain-grow-1.2.jar'
+loaders = [ 'fabric' ]
+mcVersions = [
+    '1.19',
+    '1.19.1',
+    '1.19.2',
+    '1.19.3',
+    '1.19.4',
+    '1.20',
+    '1.20.1',
+    '1.20.2',
+    '1.20.3',
+    '1.20.4',
+    '1.20.5',
+    '1.20.6',
+    '1.21',
+    '1.21.1'
+]
+name = 'Rain Growth'
+releaseType = 'release'
+side = 'server'
+
+[download]
+hash = '2fcc9d108d5a69942d413c9ef6c7768ebe5f4f3e625f65d6440380a45dfed2c4da6da2397dd226f0f937f59f433b769f672477f3913178fc6b727d6e2f7bd18e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/l0tpiNe7/versions/4kJXWBwz/rain-grow-1.2.jar'
+
+[update.modrinth]
+mod-id = 'l0tpiNe7'
+version = '4kJXWBwz'
