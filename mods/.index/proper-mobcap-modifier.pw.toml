@@ -1,0 +1,16 @@
+filename = 'proper-mobcap-modifier-3.2.2.jar'
+loaders = [ 'fabric' ]
+mcVersions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
+name = 'Proper Mobcap Modifier'
+releaseType = 'release'
+side = 'server'
+
+[download]
+hash = '0b00076a30593e72833238eecc148fc247eb639b6d2d7f04af4d962d8a659736f938745a21891dfa484a98603747201446fd0b573389ae4b42b0683a23781d38'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/o9u0BuWN/versions/hRCbLKuj/proper-mobcap-modifier-3.2.2.jar'
+
+[update.modrinth]
+mod-id = 'o9u0BuWN'
+version = 'hRCbLKuj'
