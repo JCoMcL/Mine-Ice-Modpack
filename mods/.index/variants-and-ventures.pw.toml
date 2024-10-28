@@ -1,0 +1,16 @@
+filename = 'variantsandventures-fabric-mc1.20.1-1.0.6.jar'
+loaders = [ 'fabric', 'quilt' ]
+mcVersions = [ '1.20', '1.20.1' ]
+name = 'Variants & Ventures'
+releaseType = 'release'
+side = 'both'
+
+[download]
+hash = 'ab15e3ec53e641b26e467fe01b182641486be2033ee4c822e7f6f8a041f00db459f0d61c3b9b3786f4d173f8c364c174ba6c1ed686ffcdbf4d736165b99fc829'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/lNDRiXkY/versions/QhCSJtm3/variantsandventures-fabric-mc1.20.1-1.0.6.jar'
+
+[update.modrinth]
+mod-id = 'lNDRiXkY'
+version = 'QhCSJtm3'

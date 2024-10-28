@@ -1,0 +1,16 @@
+filename = 'elytra-recast-2.2.3.jar'
+loaders = [ 'fabric' ]
+mcVersions = [ '1.20', '1.20.1', '1.20.2', '1.20.3' ]
+name = 'Elytra Recast'
+releaseType = 'release'
+side = 'client'
+
+[download]
+hash = 'a06f1ab8a0b78b69a81b6f65aecada6f217b70142d86da9358b1078fb83b8404311a3b49b74f829647ce6f67859589d4b312368818dded4629d349f8a91733d1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/2pB5JNWz/versions/hFq9cSfz/elytra-recast-2.2.3.jar'
+
+[update.modrinth]
+mod-id = '2pB5JNWz'
+version = 'hFq9cSfz'

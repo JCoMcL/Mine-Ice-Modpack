@@ -1,0 +1,16 @@
+filename = 'EnchantmentGroups-1.4.0+1.20.1.jar'
+loaders = [ 'fabric', 'quilt' ]
+mcVersions = [ '1.20.1', '1.20.2' ]
+name = 'Enchantment Groups'
+releaseType = 'release'
+side = 'both'
+
+[download]
+hash = 'c2aefc4dcf41f90f5cf113ed81e106b9989d316b2220a9d393a3ef66991f9a2a02a2d53494a8043640cf079685701ad5e035ba7795a229d56b4df490e72c7b08'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/i2K44Qi6/versions/xx9C7q7X/EnchantmentGroups-1.4.0%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'i2K44Qi6'
+version = 'xx9C7q7X'

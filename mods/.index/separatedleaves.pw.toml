@@ -1,0 +1,16 @@
+filename = 'separatedleaves-2.5.0-fabric-1.20.4.jar'
+loaders = [ 'fabric' ]
+mcVersions = [ '1.19.3', '1.19.4', '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
+name = 'Separated Leaves'
+releaseType = 'release'
+side = 'server'
+
+[download]
+hash = 'ce9e5134ad1f81ca081d5000f3112d354640d5eee7c995ebacf184ee558cb0ba8dbfb08827e7963358d0d9a58d96aaa370d7e33c7e17aa66273168d1ae9f8002'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/xEu0FTVG/versions/bkTM4Hzh/separatedleaves-2.5.0-fabric-1.20.4.jar'
+
+[update.modrinth]
+mod-id = 'xEu0FTVG'
+version = 'bkTM4Hzh'

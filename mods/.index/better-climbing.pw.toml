@@ -1,0 +1,16 @@
+filename = 'better_climbing-fabric-3.jar'
+loaders = [ 'fabric', 'quilt' ]
+mcVersions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6', '1.21', '1.21.1' ]
+name = 'Better Climbing'
+releaseType = 'release'
+side = 'both'
+
+[download]
+hash = 'b1a140b8854042c001906d7a9db2680709c4f5d6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4589736
+project-id = 655619

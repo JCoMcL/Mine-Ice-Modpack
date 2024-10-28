@@ -1,0 +1,36 @@
+filename = 'swingthrough-1.0.6+1.20.jar'
+loaders = [ 'fabric', 'quilt' ]
+mcVersions = [
+    '1.16',
+    '1.16.1',
+    '1.16.2',
+    '1.16.3',
+    '1.16.4',
+    '1.16.5',
+    '1.17',
+    '1.17.1',
+    '1.18',
+    '1.18.1',
+    '1.18.2',
+    '1.19',
+    '1.19.1',
+    '1.19.2',
+    '1.19.3',
+    '1.19.4',
+    '1.20',
+    '1.20.1',
+    '1.20.2'
+]
+name = 'SwingThrough'
+releaseType = 'release'
+side = 'client'
+
+[download]
+hash = '8fd6ba62261fd060de31c0e71e81013ce5e9aaa75ff70d343465417c94050aa22e200e8b7c96a30d12a038fdcc043fe5fdd00ec6c820955da68117fdd174e5f9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/JyKlunuD/versions/6SlMTGJa/swingthrough-1.0.6%2B1.20.jar'
+
+[update.modrinth]
+mod-id = 'JyKlunuD'
+version = '6SlMTGJa'

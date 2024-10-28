@@ -1,0 +1,16 @@
+filename = 'gipples_galore-1.20.1-1.0.0.jar'
+loaders = [ 'fabric' ]
+mcVersions = [ '1.20', '1.20.1', '1.20.2' ]
+name = 'Gipples Galore'
+releaseType = 'release'
+side = 'both'
+
+[download]
+hash = '9a1d7dbd3eb63a4766da844f87b365ac5849d5edfa3eeb47181df0a3f63b44c544b3cdabc45a83eac0d68f81c7522ece2229fea6a7a1247a2c3da0ad9c4aa64e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/QYfKDJOV/versions/NLteDoEC/gipples_galore-1.20.1-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'QYfKDJOV'
+version = 'NLteDoEC'
