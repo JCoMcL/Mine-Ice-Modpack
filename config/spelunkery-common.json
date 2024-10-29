@@ -6,8 +6,8 @@
     "parachute_opening_delay": 10,
     "enable_mores": true,
     "enable_rough_gems": true,
-    "enable_raw_nuggets": true,
-    "ores_drop_base_stone": false
+    "enable_raw_nuggets": false,
+    "ores_drop_base_stone": true
   },
   "utilities": {
     "hammer_and_chisel_charge_time": 20,
@@ -24,8 +24,8 @@
     "portal_destruction_crying_obsidian": true,
     "portal_creation_sound": true,
     "portal_destruction_sound": true,
-    "portal_fluid_drinking": true,
-    "instant_teleportation": true,
+    "portal_fluid_drinking": false,
+    "instant_teleportation": false,
     "piglins_give_crying_obsidian": true,
     "dimensional_tears_from_crying_obsidian": false,
     "dimensional_tears_from_respawn_anchor": true,
