@@ -1,0 +1,16 @@
+filename = 'rhino-fabric-2001.2.3-build.6.jar'
+loaders = [ 'fabric', 'quilt' ]
+mcVersions = [ '1.20.1' ]
+name = 'Rhino'
+releaseType = 'release'
+side = 'both'
+
+[download]
+hash = '7cf1fe3158712fc5605e471bd8c8a7deccd6802c183d9b81b64a9723dd99990579fff804873e38043fe253fce0eab5ac65895fbbebe3b640c8c1177b5fffb638'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/sk9knFPE/versions/WradV9Zu/rhino-fabric-2001.2.3-build.6.jar'
+
+[update.modrinth]
+mod-id = 'sk9knFPE'
+version = 'WradV9Zu'

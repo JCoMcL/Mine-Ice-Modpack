@@ -1,0 +1,16 @@
+filename = 'kubejsoffline-4.0.2.jar'
+loaders = [ 'fabric' ]
+mcVersions = [ '1.20.1' ]
+name = 'KubeJS Offline'
+releaseType = 'release'
+side = 'server'
+
+[download]
+hash = 'caa766c264493afcae0b1b961b2f277bf06eeb77c43304d6e582507afab718cc00a9a5959686289197ceed6926688b31a86b616fad0d44451f57af7c43f20715'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/7I1fu1km/versions/Guh1iTyK/kubejsoffline-4.0.2.jar'
+
+[update.modrinth]
+mod-id = '7I1fu1km'
+version = 'Guh1iTyK'
