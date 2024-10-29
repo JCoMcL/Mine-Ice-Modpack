@@ -1,0 +1,16 @@
+filename = 'revive-1.0.7.jar'
+loaders = [ 'fabric' ]
+mcVersions = [ '1.20.1' ]
+name = 'Revive'
+releaseType = 'release'
+side = 'both'
+
+[download]
+hash = '781687a232a177a9f13e0b44b1a3e35c03ef3163ee70f43f1ad531686ccd93f1db68d4a0da289ddacee11c69f663d653dd435033315fa47f228d58cbd217e2ff'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/MGRhpQYp/versions/eW6ZYUVj/revive-1.0.7.jar'
+
+[update.modrinth]
+mod-id = 'MGRhpQYp'
+version = 'eW6ZYUVj'
