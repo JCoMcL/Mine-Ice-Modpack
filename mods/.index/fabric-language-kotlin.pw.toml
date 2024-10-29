@@ -1,4 +1,4 @@
-filename = 'fabric-language-kotlin-1.10.8+kotlin.1.9.0.jar'
+filename = 'fabric-language-kotlin-1.12.3+kotlin.2.0.21.jar'
 loaders = [ 'fabric' ]
 mcVersions = [
     '1.14',
@@ -26,18 +26,27 @@ mcVersions = [
     '1.19.3',
     '1.19.4',
     '1.20',
-    '1.20.1'
+    '1.20.1',
+    '1.20.2',
+    '1.20.3',
+    '1.20.4',
+    '1.20.5',
+    '1.20.6',
+    '1.21',
+    '1.21.1',
+    '1.21.2',
+    '1.21.3'
 ]
 name = 'Fabric Language Kotlin'
 releaseType = 'release'
 side = 'both'
 
 [download]
-hash = '8f20eb2f1c9ad30781e599df265476e38bc549466d7f8acd5bdd27d664d15f9da93b3d543a6f0ccc7ff19d11d808dc2c03273cb0a5d4e942074d4823981d23b3'
+hash = 'a9278c0a32a4906989fff17431ad5cc13fbed95a99a15bb8e10ba427714e28eb4828f779affb4e80731d98ab14f23e4d759ea2090be05a10da908608139e67e7'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/Ha28R6CL/versions/s10JMAtS/fabric-language-kotlin-1.10.8%2Bkotlin.1.9.0.jar'
+url = 'https://cdn.modrinth.com/data/Ha28R6CL/versions/B0fZidZi/fabric-language-kotlin-1.12.3%2Bkotlin.2.0.21.jar'
 
 [update.modrinth]
 mod-id = 'Ha28R6CL'
-version = 's10JMAtS'
+version = 'B0fZidZi'

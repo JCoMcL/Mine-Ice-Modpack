@@ -1,4 +1,4 @@
-filename = 'balm-fabric-1.20-7.0.7.jar'
+filename = 'balm-fabric-1.20.1-7.3.9.jar'
 loaders = [ 'fabric' ]
 mcVersions = [ '1.20', '1.20.1' ]
 name = 'Balm'
@@ -6,11 +6,11 @@ releaseType = 'release'
 side = 'both'
 
 [download]
-hash = 'e3170bef637aa5806f8d1756f8901835a1f3c9217d8b77f110fb493906d89f19660c4f8d5bce7772c64004f6f356df3d8e0c8d34f686f0a8fd18205d040a3391'
+hash = '7b19c6b603027f715bb7630bc1da7015a92e6323730f425334e4a449a64d2e5bf292732e96f2153a77cd3581e9b24847ab5205bc6daf26da8d57c1f8b29aaed8'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/MBAkmtvl/versions/I5betUED/balm-fabric-1.20-7.0.7.jar'
+url = 'https://cdn.modrinth.com/data/MBAkmtvl/versions/5sowswPx/balm-fabric-1.20.1-7.3.9.jar'
 
 [update.modrinth]
 mod-id = 'MBAkmtvl'
-version = 'I5betUED'
+version = '5sowswPx'

@@ -1,4 +1,4 @@
-filename = 'PuzzlesLib-v8.0.15-1.20.1-Fabric.jar'
+filename = 'PuzzlesLib-v8.1.24-1.20.1-Fabric.jar'
 loaders = [ 'fabric' ]
 mcVersions = [ '1.20.1' ]
 name = 'Puzzles Lib'
@@ -6,11 +6,11 @@ releaseType = 'release'
 side = 'both'
 
 [download]
-hash = 'cad899693205f24f03aff92357aedc1560c1dd83f7ae421ab1b2a5bd53193f5b8f7b895547197e2187c930773811ae15d86cd2753f51fed53fa9cbc9a9a92c23'
+hash = 'fbf212a86f12b8ac2f35ffa58123d07c776d22c70747c797d2b21859c4dd8c41cfcc56c9a1cbaa93e75ea0e1b1ada552eb39e4ef674f6b8e943bf9219acc4ff7'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/QAGBst4M/versions/wfZ1WUlB/PuzzlesLib-v8.0.15-1.20.1-Fabric.jar'
+url = 'https://cdn.modrinth.com/data/QAGBst4M/versions/LT6tSsY5/PuzzlesLib-v8.1.24-1.20.1-Fabric.jar'
 
 [update.modrinth]
 mod-id = 'QAGBst4M'
-version = 'wfZ1WUlB'
+version = 'LT6tSsY5'

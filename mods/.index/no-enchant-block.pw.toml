@@ -1,16 +1,16 @@
-filename = 'no-enchant-block-2.1.jar'
-loaders = [ 'forge', 'fabric', 'quilt' ]
-mcVersions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6', '1.21' ]
+filename = 'no-enchant-block-2.1.1.jar'
+loaders = [ 'neoforge', 'forge', 'fabric', 'quilt' ]
+mcVersions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6', '1.21', '1.21.1', '1.21.2', '1.21.3' ]
 name = 'No Enchant Block'
 releaseType = 'release'
 side = 'both'
 
 [download]
-hash = '64eaea4c6f6e49def92f1d93114b797df8ed480c042f004f932b259a510769c7ee63a66f77ef5265fe443e2717d42f3bc3ea9b4ec0a9aa7fba1ce3df5c473eab'
+hash = 'c3081aaed2ae7e59727ad8b55a5e9c947ff2fd9296964a33708866bb632df91733d4675d560c77426e018946228c4031c9524429fa7a8446a87918eb96e6d604'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/wP2OLp8w/versions/cIXTmERH/no-enchant-block-2.1.jar'
+url = 'https://cdn.modrinth.com/data/wP2OLp8w/versions/MpabATyO/no-enchant-block-2.1.1.jar'
 
 [update.modrinth]
 mod-id = 'wP2OLp8w'
-version = 'cIXTmERH'
+version = 'MpabATyO'

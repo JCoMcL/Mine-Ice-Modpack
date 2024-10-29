@@ -1,16 +1,16 @@
-filename = 'preferred-gamerules-1.1.0+1.19.4.jar'
+filename = 'preferred-gamerules-1.1.1+1.19.4.jar'
 loaders = [ 'fabric' ]
 mcVersions = [ '1.19.2', '1.19.3', '1.19.4', '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6', '1.21', '1.21.1' ]
 name = 'Preferred Gamerules'
 releaseType = 'release'
-side = 'server'
+side = 'both'
 
 [download]
-hash = 'a1801927f756f0ff2f33ec790ae2e8d1949a8ed7adbcabeeb0d4962050c221534bc2ad8d1f87623261309734665adb75b20f33e8b92b2eb21e77858727287a59'
+hash = 'e3fc77d9ca08a7f882ced44fbf54108fe01e5e7c5021a705f018ccee3263ab6e07ce7b17c7ee030f542212127fa08a1f1b888616c9a08f2a2c6894f036ee3411'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/kKib77nY/versions/52Ea4Tb2/preferred-gamerules-1.1.0%2B1.19.4.jar'
+url = 'https://cdn.modrinth.com/data/kKib77nY/versions/WEWDEB3T/preferred-gamerules-1.1.1%2B1.19.4.jar'
 
 [update.modrinth]
 mod-id = 'kKib77nY'
-version = '52Ea4Tb2'
+version = 'WEWDEB3T'
