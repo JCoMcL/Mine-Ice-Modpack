@@ -1,0 +1,16 @@
+filename = 'recipe-unlocker-1.0.1.jar'
+loaders = [ 'fabric' ]
+mcVersions = [ '1.19.3', '1.19.4', '1.20', '1.20.1' ]
+name = 'Recipe Unlocker'
+releaseType = 'release'
+side = 'client'
+
+[download]
+hash = '369ae10bb816f0426db4ea5aaf47975d1fc296a0760ee76ff3701d9b43b0f60d536597883049cd66b5fa72dd92cb8fee97e7a792a509b8c079e65e502bda6b08'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/J1nJ0y6I/versions/pQxy15EP/recipe-unlocker-1.0.1.jar'
+
+[update.modrinth]
+mod-id = 'J1nJ0y6I'
+version = 'pQxy15EP'

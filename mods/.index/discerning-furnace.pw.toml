@@ -1,0 +1,16 @@
+filename = 'discerning-furnace-1.0.15+MC1.19-1.20.6.jar'
+loaders = [ 'fabric', 'quilt' ]
+mcVersions = [ '1.19', '1.19.1', '1.19.2', '1.19.3', '1.19.4', '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6' ]
+name = 'Discerning Furnace'
+releaseType = 'release'
+side = 'both'
+
+[download]
+hash = '1ce615bea898bd01d055334238d22dab9246d783da6f8176a1c4f6a8a8de7c31340411945fb37800d14e8d070014d637dc491fe601a686e5727e01bc82ef7e5b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/G3Nz6HN4/versions/xEFLXNFg/discerning-furnace-1.0.15%2BMC1.19-1.20.6.jar'
+
+[update.modrinth]
+mod-id = 'G3Nz6HN4'
+version = 'xEFLXNFg'
