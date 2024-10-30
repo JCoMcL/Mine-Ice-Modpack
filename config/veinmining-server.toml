@@ -2,7 +2,7 @@
 #Range: 0.0 ~ 100.0
 requiredDestroySpeed = 1.0
 #If enabled, vein mining will not activate if the used tool cannot harvest drops from the source block.
-requireCorrectTool = false
+requireCorrectTool = true
 #The maximum number of blocks to vein mine without the enchantment.
 #Range: 0 ~ 1000
 maxBlocksBase = 0
