@@ -63,10 +63,14 @@ key_modifiers_equipmentcompare.key.showTooltips:0,0,0
 key_modifiers_key.exposure.camera_controls:0,0,0
 key_modifiers_key.extraalchemy.magnetism_toggle:0,0,0
 key_modifiers_key.extraalchemy.potion_bag_mode:0,0,0
-key_modifiers_key.extraalchemy.toggle_extra_inv_rings:0,0,0
 key_modifiers_key.fog.toggle:0,0,0
 key_modifiers_key.interactic.pickup_item:0,0,0
 key_modifiers_keybind.invmove.toggleMove:0,0,0
+key_modifiers_key.jade.config:0,0,0
+key_modifiers_key.jade.show_overlay:0,0,0
+key_modifiers_key.jade.toggle_liquid:0,0,0
+key_modifiers_key.jade.narrate:0,0,0
+key_modifiers_key.jade.show_details_alternative:0,0,0
 key_modifiers_key.map_atlases.open_minimap:0,0,0
 key_modifiers_key.modmenu.open_menu:0,0,0
 key_modifiers_supplementaries.keybind.quiver:0,0,0
@@ -86,8 +90,3 @@ key_modifiers_key.voice_chat_group:0,0,0
 key_modifiers_key.voice_chat_toggle_recording:0,0,0
 key_modifiers_key.voice_chat_adjust_volumes:0,0,0
 key_modifiers_key.weaponmaster_ydm.opengui:0,0,0
-key_modifiers_key.waila.config:0,0,0
-key_modifiers_key.waila.show_overlay:0,0,0
-key_modifiers_key.waila.toggle_liquid:0,0,0
-key_modifiers_key.waila.show_recipe_input:0,0,0
-key_modifiers_key.waila.show_recipe_output:0,0,0
