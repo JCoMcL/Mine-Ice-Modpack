@@ -5,6 +5,7 @@
 /coremods
 /crash-reports
 /data
+/local
 /logs
 /modernfix
 /mods/*.jar
@@ -16,6 +17,7 @@
 /shaderpacks
 /texturepacks
 /icon.png
+/rhino.local.properties
 /usercache.json
 /usernamecache.json
 
