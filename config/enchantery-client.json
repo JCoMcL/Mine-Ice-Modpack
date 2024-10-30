@@ -1,7 +1,7 @@
 {
   "#README": "This config file does not support comments. To see them configure it in-game using YACL or Cloth Config",
   "general": {
-    "enable_tooltips": false,
-    "bookshelf_labels_shift": false
+    "enable_tooltips": true,
+    "bookshelf_labels_shift": true
   }
 }

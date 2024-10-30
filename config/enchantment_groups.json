@@ -5,7 +5,6 @@
 	  "minecraft:riptide"
 	],
 	"melee_damage": [
-	  "minecraft:bane_of_arthropods",
 	  "minecraft:smite",
 	  "minecraft:sharpness"
 	],
@@ -13,11 +12,11 @@
 	  "minecraft:multishot",
 	  "minecraft:piercing"
 	],
-	"protection": [
-	  "minecraft:protection",
+	"special_protection": [
 	  "minecraft:blast_protection",
 	  "minecraft:fire_protection",
-	  "minecraft:projectile_protection"
+	  "minecraft:projectile_protection",
+	  "minecraft:feather_falling"
 	],
 	"bow": [
 	  "minecraft:mending",

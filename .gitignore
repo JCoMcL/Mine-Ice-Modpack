@@ -36,6 +36,7 @@ config/*fingerprint.json
 config/NoChatReports/
 config/everycomp-entries.json
 config/everycomp-hazardous.properties
+config/jade/usernamecache.json
 
 .bobby
 emi.json
