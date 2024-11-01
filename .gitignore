@@ -39,7 +39,8 @@ config/NoChatReports/
 config/everycomp-entries.json
 config/everycomp-hazardous.properties
 config/jade/usernamecache.json
-
+config/sound_physics_remastered/occlusion.properties
+config/sound_physics_remastered/reflectivity.properties
 .bobby
 emi.json
 config/waila/waila_plugins.json5
