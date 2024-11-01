@@ -1,0 +1,16 @@
+filename = 'readyplayerfun-1.20.1-2.9.0.3-FABRIC.jar'
+loaders = [ 'fabric' ]
+mcVersions = [ '1.20', '1.20.1' ]
+name = 'Ready Player Fun'
+releaseType = 'release'
+side = 'server'
+
+[download]
+hash = 'd4d43b3757f894e8e08cfeb5f7c8776a71ecf94dfbf5d5610e3604e32e2094fe25262544ef7e84c2641bcaac34bb135080b27bec47d08f44cffacc2fb34065ba'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/AwiAYDUq/versions/7M9c8DgN/readyplayerfun-1.20.1-2.9.0.3-FABRIC.jar'
+
+[update.modrinth]
+mod-id = 'AwiAYDUq'
+version = '7M9c8DgN'

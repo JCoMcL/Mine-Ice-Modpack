@@ -1,0 +1,16 @@
+filename = 'dedicated-lan-pinger-1.19.x-1.1.jar'
+loaders = [ 'fabric' ]
+mcVersions = [ '1.19', '1.19.1', '1.19.2', '1.19.3', '1.19.4', '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
+name = 'Dedicated Server LAN Pinger (DSLP)'
+releaseType = 'release'
+side = 'server'
+
+[download]
+hash = '929fb12543f78da90769407ac19a30f9de0f03a975ca279127c05dcc3e05e335f29e99fa5079cafc01c825988ec8cbc5e1b4736c556d278b4e45e4b2f830f72b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/eGK7q0RC/versions/Ef0zmAjd/dedicated-lan-pinger-1.19.x-1.1.jar'
+
+[update.modrinth]
+mod-id = 'eGK7q0RC'
+version = 'Ef0zmAjd'
