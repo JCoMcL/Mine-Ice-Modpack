@@ -1,0 +1,16 @@
+filename = 'derelict-2.0.0.jar'
+loaders = [ 'fabric' ]
+mcVersions = [ '1.20.1' ]
+name = "Mim1q's Derelict"
+releaseType = 'beta'
+side = 'both'
+
+[download]
+hash = '91cd558e57e88a10f116305fde80a23d6e218ded5935811f87ce5253f5c74fd8d2c4245bcb773bebf4f399bc93d1f49e83044792a3cb260deb28601524a4e2d9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/FOY0uIwP/versions/4btSW1Mt/derelict-2.0.0.jar'
+
+[update.modrinth]
+mod-id = 'FOY0uIwP'
+version = '4btSW1Mt'
