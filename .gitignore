@@ -2,6 +2,7 @@
 /.cache
 /.fabric
 /.spyglass_astronomy
+/.mixin.out
 /coremods
 /crash-reports
 /data
@@ -14,6 +15,8 @@
 /saves
 /screenshots
 /server-resource-packs
+/servers.dat
+/servers.dat_old
 /shaderpacks
 /texturepacks
 /icon.png
