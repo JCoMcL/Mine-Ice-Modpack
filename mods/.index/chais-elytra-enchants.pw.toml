@@ -1,0 +1,16 @@
+filename = 'elytra_enchants-1.0.3.jar'
+loaders = [ 'fabric' ]
+mcVersions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
+name = "Chai's Elytra Enchants"
+releaseType = 'release'
+side = 'both'
+
+[download]
+hash = '7d783678513b79cfd50f599b21033c3b6c7cf8b395b8b4151536f9e53288b8fd4519b93cf9e5ca6c231a28f3a4cee72a31be9aac5b931b0383bb4ad2bea4416f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/kjeo1Vlk/versions/KXqGrQo2/elytra_enchants-1.0.3.jar'
+
+[update.modrinth]
+mod-id = 'kjeo1Vlk'
+version = 'KXqGrQo2'
