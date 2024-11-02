@@ -43,7 +43,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","seasons:seasonal_lush_caves","presencefootsteps:default_sound_pack","minecraft:supporteatinganimation","Moonlight Mods Dynamic Assets","file/better_flame_particles-v2.1-mc1.14x-1.21x-resourcepack.zip","file/Connected Chiseled Bookshelf.zip","file/Connected Vanilla Textures (1.20.2).zip","file/Fancy Crops v1.0 f5-34.zip","file/[1.4.1] Enhanced Boss Bars.zip","file/EvenBetterEnchants_v2_r1.zip","continuity:glass_pane_culling_fix","file/Simple Grass Flowers v1.8.1.zip","immersive_weathering:visual_waxed_iron_items","spelunkery:better_vanilla_gems","file/xali\u0027s Bushy Leaves v3.5.0.zip","file/xali\u0027s Enhanced Vanilla -1.11.2b-rev.54d51d4.zip"]
+resourcePacks:["vanilla","fabric","presencefootsteps:default_sound_pack","minecraft:supporteatinganimation","Moonlight Mods Dynamic Assets","file/better_flame_particles-v2.1-mc1.14x-1.21x-resourcepack.zip","file/Connected Vanilla Textures (1.20.2).zip","file/Fancy Crops v1.0 f5-34.zip","file/[1.4.1] Enhanced Boss Bars.zip","file/EvenBetterEnchants_v2_r1.zip","continuity:glass_pane_culling_fix","file/Simple Grass Flowers v1.8.1.zip","immersive_weathering:visual_waxed_iron_items","spelunkery:better_vanilla_gems","netherexp:jne_retextures","file/xali\u0027s Bushy Leaves v3.5.0.zip","file/xali\u0027s Enhanced Vanilla -1.11.2b-rev.54d51d4.zip","netherexp:unique_nether_wood"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -133,7 +133,21 @@ key_key.amecs.toggle_right_sleeve:key.keyboard.unknown
 key_key.amecs.toggle_left_pants_leg:key.keyboard.unknown
 key_key.amecs.toggle_right_pants_leg:key.keyboard.unknown
 key_key.amecs.toggle_hat:key.keyboard.unknown
+key_key.bewitchment.transformation_ability:key.keyboard.r
 key_key.carry.desc:key.keyboard.unknown
+key_key.chestcavity.utility_abilities:key.keyboard.j
+key_key.chestcavity.attack_abilities:key.keyboard.k
+key_key.chestcavity.creepy:key.keyboard.keypad.decimal
+key_key.chestcavity.dragon_breath:key.keyboard.keypad.decimal
+key_key.chestcavity.dragon_bombs:key.keyboard.keypad.decimal
+key_key.chestcavity.forceful_spit:key.keyboard.keypad.decimal
+key_key.chestcavity.furnace_powered:key.keyboard.keypad.decimal
+key_key.chestcavity.iron_repair:key.keyboard.keypad.decimal
+key_key.chestcavity.pyromancy:key.keyboard.keypad.decimal
+key_key.chestcavity.ghastly:key.keyboard.keypad.decimal
+key_key.chestcavity.grazing:key.keyboard.keypad.decimal
+key_key.chestcavity.shulker_bullets:key.keyboard.keypad.decimal
+key_key.chestcavity.silk:key.keyboard.keypad.decimal
 key_key.crawl:key.keyboard.c
 key_key.do_a_barrel_roll.toggle_enabled:key.keyboard.unknown
 key_key.do_a_barrel_roll.toggle_thrust:key.keyboard.unknown
@@ -149,8 +163,9 @@ key_key.do_a_barrel_roll.thrust_backward:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 key_equipmentcompare.key.showTooltips:key.keyboard.left.shift
 key_key.exposure.camera_controls:key.keyboard.unknown
-key_key.extraalchemy.magnetism_toggle:key.keyboard.n
-key_key.extraalchemy.potion_bag_mode:key.keyboard.k
+key_key.extraalchemy.magnetism_toggle:key.keyboard.unknown
+key_key.extraalchemy.potion_bag_mode:key.keyboard.p
+key_key.extraalchemy.toggle_extra_inv_rings:key.keyboard.unknown
 key_key.fog.toggle:key.keyboard.unknown
 key_key.interactic.pickup_item:key.keyboard.unknown
 key_keybind.invmove.toggleMove:key.keyboard.unknown
