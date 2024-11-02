@@ -1,9 +1,9 @@
 {
-	"disableMod": false,
+	"disableMod": true,
 	"disabledDimensions": [
 		"minecraft:the_nether"
 	],
-	"disableRaininessEffect": false,
+	"disableRaininessEffect": true,
 	"disableUndergroundFogMultiplier": false,
 	"disableBiomeFogColour": true,
 	"disableCloudWhitening": false,
