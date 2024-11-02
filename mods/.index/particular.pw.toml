@@ -1,16 +1,6 @@
-filename = 'particular-1.1.1.jar'
+filename = 'particular-1.1.1-bugfix.jar'
 loaders = [ 'fabric' ]
 mcVersions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
 name = 'Particular ✨'
 releaseType = 'release'
 side = 'client'
-
-[download]
-hash = 'a858d77246f1da8ba4e32fa61cad935c5366f422db2a1fc6f07bbf1e3c4fb1a44839d240dc7325964ef840f49d51e78ad3068e872b8153234b225bfa25c29d70'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/B1CcCd9h/versions/19UWxtiZ/particular-1.1.1.jar'
-
-[update.modrinth]
-mod-id = 'B1CcCd9h'
-version = '19UWxtiZ'
