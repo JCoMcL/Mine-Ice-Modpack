@@ -9,13 +9,13 @@
 	// Whether items that have damage modifiers should also deal damage when thrown
 	"itemsActAsProjectiles": true,
 	// Whether players should be able to pick up items like normal
-	"autoPickup": true,
+	"autoPickup": false,
 	// Whether Interactic should override Minecraft's default item rendering with a more fancy version. Highly recommended
-	"fancyItemRendering": true,
+	"fancyItemRendering": false,
 	// Whether Interactic should render the tooltips of items under the crosshair
 	"renderItemTooltips": true,
 	// Whether Interactic should render the full tooltip of items
-	"renderFullTooltip": true,
+	"renderFullTooltip": false,
 	// Whether your arms should swing when dropping items
 	"swingArm": true,
 	// Whether block items should lay flat on the ground
