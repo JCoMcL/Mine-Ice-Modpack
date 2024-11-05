@@ -4,9 +4,9 @@
     "//maxDistance": "Maximum distance from where Blocks and Entities can be picked up",
     "maxDistance": 2.5,
     "//maxEntityWidth": "Max width of entities that can be picked up in survival mode",
-    "maxEntityWidth": 1.5,
+    "maxEntityWidth": 0.7,
     "//maxEntityHeight": "Max height of entities that can be picked up in survival mode",
-    "maxEntityHeight": 2.5,
+    "maxEntityHeight": 1.5,
     "//blockSlownessMultiplier": "Slowness multiplier for blocks",
     "blockSlownessMultiplier": 1.0,
     "//entitySlownessMultiplier": "Slowness multiplier for entities",
@@ -20,17 +20,17 @@
     "//slownessInCreative": "Whether Blocks and Entities slow the creative player down when carried",
     "slownessInCreative": true,
     "//pickupHostileMobs": "Whether hostile mobs should be able to picked up in survival mode",
-    "pickupHostileMobs": false,
+    "pickupHostileMobs": true,
     "//heavyEntities": "Larger Entities slow down the player more",
     "heavyEntities": true,
     "//allowBabies": "Allow babies to be carried even when adult mob is blacklisted (or not whitelisted)",
-    "allowBabies": false,
+    "allowBabies": true,
     "//useWhitelistBlocks": "Use Whitelist instead of Blacklist for Blocks",
     "useWhitelistBlocks": false,
     "//useWhitelistEntities": "Use Whitelist instead of Blacklist for Entities",
     "useWhitelistEntities": false,
     "//useWhitelistStacking": "Use Whitelist instead of Blacklist for Stacking",
-    "useWhitelistStacking": false,
+    "useWhitelistStacking": true,
     "//hitWhileCarrying": "Whether the player can hit blocks and entities while carrying or not",
     "hitWhileCarrying": false,
     "//dropCarriedWhenHit": "Whether the player drops the carried object when hit or not",
@@ -63,7 +63,13 @@
     "//allowedBlocks": "Blocks that CAN be picked up (useWhitelistBlocks must be true)",
     "allowedBlocks": [],
     "//allowedStacking": "Entities that CAN have other entities stacked on top of them (useWhitelistStacking must be true)",
-    "allowedStacking": []
+    "allowedStacking": [
+      "minecraft:horse",
+      "minecraft:boat",
+      "minecraft:camel",
+      "minecraft:llama",
+      "minecraft:minecart"
+    ]
   },
   "blacklist": {
     "//blacklist": "Blacklist. Read about the format here: https://github.com/Tschipp/CarryOn/wiki/Black---and-Whitelist-Config",
@@ -205,9 +211,7 @@
       "bodiesbodies:dead_body"
     ],
     "//forbiddenStacking": "Entities that cannot have other entities stacked on top of them",
-    "forbiddenStacking": [
-      "minecraft:horse"
-    ]
+    "forbiddenStacking": []
   },
   "customPickupConditions": {
     "//customPickupConditions": "Custom Pickup Conditions. Read about the format here: https://github.com/Tschipp/CarryOn/wiki/Custom-Pickup-Condition-Config",
