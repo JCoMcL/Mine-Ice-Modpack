@@ -1,16 +1,16 @@
-filename = 'darkness-fabric-1.1.3+mc1.20.1.jar'
+filename = 'darkness-fabric-1.2.0+mc1.20.1.jar'
 loaders = [ 'fabric' ]
 mcVersions = [ '1.20', '1.20.1' ]
 name = 'True Darkness Refabricated'
 releaseType = 'release'
-side = 'client'
+side = 'both'
 
 [download]
-hash = 'e4c316d62467c5e10ddaf5565b155dd57892f04741c5320b67eb2a71c9c0f86b90989ab2a33c6924c347b4c5280c281e48de9035522e802f664dd49e109422e0'
+hash = '1ad53b72ecd77ad999d7e26f530fbab8517f0662c31b32b4ef6a921620642f167630b8f00e31855c3751f8106c7f1d1f8614cf4e97cfcb075b791d015543ecfd'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/Pf8PJBb5/versions/88oVZSJ2/darkness-fabric-1.1.3%2Bmc1.20.1.jar'
+url = 'https://cdn.modrinth.com/data/Pf8PJBb5/versions/U3qOXes3/darkness-fabric-1.2.0%2Bmc1.20.1.jar'
 
 [update.modrinth]
 mod-id = 'Pf8PJBb5'
-version = '88oVZSJ2'
+version = 'U3qOXes3'
