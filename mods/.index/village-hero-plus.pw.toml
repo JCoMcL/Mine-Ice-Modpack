@@ -1,16 +1,16 @@
-filename = 'village-hero-plus-4.1.jar'
+filename = 'village-hero-plus-5.1.jar'
 loaders = [ 'neoforge', 'forge', 'fabric', 'quilt' ]
-mcVersions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6', '1.21', '1.21.1' ]
+mcVersions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6', '1.21', '1.21.1', '1.21.2', '1.21.3' ]
 name = 'Village Hero+'
 releaseType = 'release'
 side = 'both'
 
 [download]
-hash = '9304d19a662cd4f17f6de30a9eb1c6ba3d523e4504148ad2e07d2ed05cec42589e7c1c3641a4ff30a5a7a73f2ae0cd074cfb79163830086c457c1bfdfd5fac3e'
+hash = '433151e5f54969c25cd6a0db5c12eb4cc58bfc66ad23b652be0875e0a60e092fdbacbce4c601605203aa83096c5a392cec01645683ad0a741dd2101971e452e2'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/BZnc0tTs/versions/5jiF3SvS/village-hero-plus-4.1.jar'
+url = 'https://cdn.modrinth.com/data/BZnc0tTs/versions/l4JkTdMh/village-hero-plus-5.1.jar'
 
 [update.modrinth]
 mod-id = 'BZnc0tTs'
-version = '5jiF3SvS'
+version = 'l4JkTdMh'

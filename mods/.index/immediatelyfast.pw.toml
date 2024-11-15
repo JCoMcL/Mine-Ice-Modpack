@@ -1,4 +1,4 @@
-filename = 'ImmediatelyFast-Fabric-1.3.0+1.20.4.jar'
+filename = 'ImmediatelyFast-Fabric-1.3.2+1.20.4.jar'
 loaders = [ 'fabric', 'quilt' ]
 mcVersions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
 name = 'ImmediatelyFast'
@@ -6,11 +6,11 @@ releaseType = 'release'
 side = 'both'
 
 [download]
-hash = 'f5d9fd9817b396c6b0db810fca015eb4c640da706dcfd2d1c4d4c6e7d5e725820b9c0d5ce5172f55e10674a851f058fbc39ece6254030db7413ac18ac5674fc4'
+hash = 'fb40556eda24db099557adae48efd8bee1927e68ea232af086686878a9a573fffaf44a6831121f03ef777cdebb46f3bd6be48e663f632d9addfe1cc2db9f3ebe'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/5ZwdcRci/versions/pjGo59EB/ImmediatelyFast-Fabric-1.3.0%2B1.20.4.jar'
+url = 'https://cdn.modrinth.com/data/5ZwdcRci/versions/eUAoLISt/ImmediatelyFast-Fabric-1.3.2%2B1.20.4.jar'
 
 [update.modrinth]
 mod-id = '5ZwdcRci'
-version = 'pjGo59EB'
+version = 'eUAoLISt'

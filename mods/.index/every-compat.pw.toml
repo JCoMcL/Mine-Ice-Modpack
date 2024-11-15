@@ -1,16 +1,16 @@
-filename = 'everycomp-1.20-2.6.87-fabric.jar'
+filename = 'everycomp-1.20-2.6.90-fabric.jar'
 loaders = [ 'fabric' ]
 mcVersions = [ '1.20.1' ]
-name = 'Every Compat (Wood Good)'
+name = 'Every Compat'
 releaseType = 'release'
 side = 'both'
 
 [download]
-hash = '21ebbe51b926e41cbea8b50aaf2b7e7c9b18aa65a178a84f4d9225cf3596e40e1b15d0678f1491462415b6d7c7e6d2385f846e9884fc479d232d0b58aa715b48'
+hash = '7ce4602e52fece1048802b5eda245eb7fd18955e4e15adbf65e885a8a4cd02ecd41400186954671adcffc901e32b37c84d75e52df334576b0c38183cb473e8cf'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/eiktJyw1/versions/IKKkD7Pc/everycomp-1.20-2.6.87-fabric.jar'
+url = 'https://cdn.modrinth.com/data/eiktJyw1/versions/robn2JQU/everycomp-1.20-2.6.90-fabric.jar'
 
 [update.modrinth]
 mod-id = 'eiktJyw1'
-version = 'IKKkD7Pc'
+version = 'robn2JQU'

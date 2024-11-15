@@ -1,4 +1,4 @@
-filename = 'Patched-fabric-3.3.1+1.20.1.jar'
+filename = 'Patched-3.4.1+1.20.1-fabric.jar'
 loaders = [ 'fabric' ]
 mcVersions = [ '1.20', '1.20.1' ]
 name = 'Patched'
@@ -6,11 +6,11 @@ releaseType = 'release'
 side = 'both'
 
 [download]
-hash = '8aee3397a2997ef7f4b5900be5d390e691fc9c59c185a112794c5a0905b4d90959f1d53336a234cc3f610b0e8ce5b858806306b985fd6f3e78187964dcb129f7'
+hash = '13a12c5ad3faa0d97cbc62f62b8896e0a06adf401d9b559b14783d7984ad754a1d2c16e6202c6d7aefb8d5ad96f9a8e99c4aad2c53ae2f94161f1f5fc28fa7cf'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/IBlGrJtC/versions/DoVwzvli/Patched-fabric-3.3.1%2B1.20.1.jar'
+url = 'https://cdn.modrinth.com/data/IBlGrJtC/versions/4EhWMsyv/Patched-3.4.1%2B1.20.1-fabric.jar'
 
 [update.modrinth]
 mod-id = 'IBlGrJtC'
-version = 'DoVwzvli'
+version = '4EhWMsyv'

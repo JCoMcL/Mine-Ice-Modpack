@@ -139,3 +139,6 @@ mode = "fancy"
 			[light_sources.settings.entities.sleep_tight]
 				bed_entity = true
 
+			[light_sources.settings.entities.ecologics]
+				squirrel = true
+
