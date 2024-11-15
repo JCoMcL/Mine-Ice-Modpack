@@ -36,7 +36,7 @@
     },
     "dispenser_minecart": {
       "enabled": true,
-      "adjust_projectile_angle": true
+      "face_forward": false
     },
     "faucet": {
       "enabled": true,
@@ -59,6 +59,7 @@
   },
   "functional": {
     "rope": {
+      "enabled": true,
       "block_side_attachment": true,
       "slide_on_fall": true,
       "rope_override": "supplementaries:rope",
@@ -80,8 +81,7 @@
       "cage_allow_all_babies": false,
       "cage_auto_detect": false,
       "persistent_mobs": false,
-      "health_threshold": 100,
-      "require_taming": true
+      "health_threshold": 100
     },
     "safe": {
       "enabled": true,
@@ -131,29 +131,12 @@
         "quark:dirty_glass": "minecraft:glass"
       }
     },
-    "cannon": {
-      "enabled": true,
-      "fire_power": 0.6,
-      "fuse_time": 40,
-      "cooldown": 60,
-      "cannonball": true,
-      "music_disc_heave_ho": true
-    },
     "present": {
       "enabled": true,
       "trapped_present": true
     },
     "flax": {
       "enabled": true
-    },
-    "lumisene": {
-      "enabled": true,
-      "lumisene_bottle": {
-        "enabled": true,
-        "flammable_duration": 300,
-        "glowing_duration": 200
-      },
-      "flammable_from_lumisene_block_duration": 50
     },
     "fodder": true,
     "hourglass": true
@@ -163,13 +146,6 @@
       "enabled": true,
       "colored_blackboard": false,
       "interaction_mode": "BOTH"
-    },
-    "gravel_bricks": {
-      "enabled": true
-    },
-    "slidy_block": {
-      "enabled": true,
-      "speed": 0.125
     },
     "timber_frame": {
       "enabled": true,
@@ -188,7 +164,6 @@
     },
     "sugar_cube": {
       "enabled": true,
-      "dissolve_in_rain": true,
       "horse_speed_duration": 10
     },
     "planter": {
@@ -240,16 +215,6 @@
       "enabled": true,
       "unrestricted": false
     },
-    "awning": {
-      "enabled": true,
-      "slant": true,
-      "shift_through": true,
-      "angle": 69.44395478041653
-    },
-    "flower_box": {
-      "enabled": true,
-      "simple_mode": true
-    },
     "lapis_bricks": true,
     "deepslate_lamp": true,
     "end_stone_lamp": true,
@@ -257,7 +222,6 @@
     "stone_lamp": true,
     "stone_tile": true,
     "blackstone_tile": true,
-    "bunting": true,
     "sconce": true,
     "sconce_lever": true,
     "pancake": true,
@@ -267,12 +231,10 @@
     "raked_gravel": true,
     "feather_block": true,
     "statue": true,
+    "flower_box": true,
     "doormat": true,
     "flint_block": true,
-    "fine_wood": true,
-    "candle_holder": true,
-    "fire_pit": true,
-    "wicker_fence": true
+    "candle_holder": true
   },
   "tools": {
     "quiver": {
@@ -282,11 +244,6 @@
       "quiver_skeleton_spawn_chance": 0.03,
       "only_works_in_curio": false,
       "quiver_pickup": true
-    },
-    "lunch_basket": {
-      "enabled": true,
-      "placeable": true,
-      "slots": 6
     },
     "slice_map": {
       "enabled": true,
@@ -320,7 +277,6 @@
       "explosion_radius": 2.0,
       "break_blocks": "WEAK",
       "bomb_fuse": 0,
-      "cooldown": true,
       "blue_bomb": {
         "explosion_radius": 5.15,
         "break_blocks": "WEAK"
@@ -332,8 +288,6 @@
       "charge_time": 20,
       "stasis_deceleration": 0.9625,
       "unrestricted_enderman_intercept": true,
-      "allow_buckets": true,
-      "damageable_damage": 0.5,
       "allow_splash_potions": false,
       "allow_bombs": false,
       "allow_fire_charges": false,
@@ -345,15 +299,13 @@
     },
     "candy": true,
     "stasis": true,
-    "altimeter": true,
-    "confetti_popper": true
+    "altimeter": true
   },
   "general": {
     "creative_tab": false,
     "dispensers": true,
     "debug_save_dynamic_pack": false,
     "server_protection": false,
-    "sanity_checks_messages": true,
     "red_merchant_spawn_multiplier": 1.0
   },
   "tweaks": {
@@ -368,8 +320,7 @@
     },
     "dispenser_tweaks": {
       "axe_strip": true,
-      "shoot_ender_pearls": true,
-      "extract_from_bundles": true
+      "shoot_ender_pearls": true
     },
     "throwable_bricks": {
       "enabled": true
@@ -419,17 +370,6 @@
     },
     "item_lore": {
       "enabled": true
-    },
-    "sus_recipes": {
-      "enabled": true
-    },
-    "slimed_effect": {
-      "enabled": true,
-      "throwable_slimeballs": true,
-      "overlay": true,
-      "hinders_jump": "NORMAL_DIFFICULTY",
-      "duration": 300,
-      "chance_per_slime_size": 0.15
     }
   }
 }
