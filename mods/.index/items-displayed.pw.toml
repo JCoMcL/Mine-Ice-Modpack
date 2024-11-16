@@ -1,0 +1,16 @@
+filename = 'ItemsDisplayed - v1.3-1.20.1.jar'
+loaders = [ 'fabric' ]
+mcVersions = [ '1.20.1' ]
+name = 'Items Displayed [Fabric]'
+releaseType = 'release'
+side = 'both'
+
+[download]
+hash = '7da7b3ced3445c2e4c14d41a7d22df59ad764c871ac2142f588f6960c4c5e335c44d98591e4a7def7dcbf8180b78a8613d4d714f117e9bef5b8c70f28e7281c4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Guh4HXen/versions/Dy1u8PQC/ItemsDisplayed - v1.3-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'Guh4HXen'
+version = 'Dy1u8PQC'
