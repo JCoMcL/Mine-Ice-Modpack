@@ -1,0 +1,6 @@
+filename = 'unlitcampfire-fabric-1.20.1-2.3.1.1.jar'
+loaders = [ 'fabric' ]
+mcVersions = [ '1.20.1' ]
+name = 'Unlit Campfire'
+releaseType = 'release'
+side = 'both'

@@ -65,5 +65,8 @@
     "coordinates": false,
     "registry_name": "OFF",
     "mod_name": true
+  },
+  "unlitcampfire": {
+    "campfireinfo": true
   }
 }
