@@ -15,7 +15,7 @@
 	"allowReviveWithHand": false,
 	"reviveHealthPoints": 2,
 	"reviveSupportiveHealthPoints": 10,
-	"showDeathCoordinates": true,
+	"showDeathCoordinates": false,
 	"thirdPersonOnDeath": true,
 	"rotationSpeed": 0.4000000059604645,
 	// Apply effects on revival
