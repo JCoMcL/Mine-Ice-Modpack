@@ -1,0 +1,16 @@
+filename = 'nodeathscatter-0.1.0.jar'
+loaders = [ 'fabric' ]
+mcVersions = [ '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6' ]
+name = 'No Death Scatter'
+releaseType = 'release'
+side = 'server'
+
+[download]
+hash = '6d3455fce359a558d9eab338f90c91ede9752f9d2b34b5ac53955d80f4a32e2f0c040250868f82994062c63ed722737f731f3b3e910264148093760062181eb9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/479ufu98/versions/MdHAw7Ac/nodeathscatter-0.1.0.jar'
+
+[update.modrinth]
+mod-id = '479ufu98'
+version = 'MdHAw7Ac'
