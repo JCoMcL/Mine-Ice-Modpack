@@ -139,7 +139,7 @@ mob-spawning:
 
     - category: 'RASCALS'
       mobcap: 1
-      spawn-interval: 300
+      spawn-interval: 10
 
 
 # Settings for commands and their formatting.
