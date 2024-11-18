@@ -187,13 +187,20 @@
 					"farmersdelight:plugin/decomposition",
 					"roughlyenoughitems:plugins/information",
 					"minecraft:plugins/tag",
-					"roughlyenoughprofessions:plugins/profession"
+					"roughlyenoughprofessions:plugins/profession",
+					"derelict:aging",
+					"chestcavity:crafting_salvage"
 				],
 				"hiddenCategories": []
 			}
 		},
 		"filtering": {
-			"filteredStacks": [],
+			"filteredStacks": [
+				"{Count:1b,id:\"supplementaries:altimeter\",type:\"minecraft:item\"}",
+				"{Count:1b,id:\"suppsquared:brass_lantern\",type:\"minecraft:item\"}",
+				"{Count:1b,id:\"purecoppertools:copper_nugget\",type:\"minecraft:item\"}",
+				"{Count:1b,id:\"spelunkery:bismuth_nugget\",type:\"minecraft:item\"}"
+			],
 			"shouldFilterDisplays": true,
 			"filteringRules": [
 				"{id:\"roughlyenoughitems:manual\",rule:{}}",
