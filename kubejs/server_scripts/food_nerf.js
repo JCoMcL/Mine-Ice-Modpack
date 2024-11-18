@@ -7,10 +7,17 @@ function reduceStackSize(item, i) {
 	item.setMaxStackSize(Math.min(i, item.maxStackSize))
 }
 
+let FoodStackOverrides = {
+	rotten_flesh: 64,
+	spider_eye: 64,
+	bread: 3
+}
 var foodItems = []
 Ingredient.all.stacks.toList().forEach(stack => {
 	let item = stack.item
 	if (item.foodProperties) {
+		if (FoodStackOverrides[item.toString()])
+			return item.setMaxStackSize(FoodStackOverrides[item.toString()])
 		foodItems.push(item)
 		if (item.id.split(':')[0] == 'chestcavity')
 			return
@@ -49,7 +56,7 @@ ServerEvents.recipes(e => {
 	//make all prepared food stack to only one
 	foodItems.forEach(item => {
 		//ignore food that can be cooked
-		if (e.countRecipes({input: item.id, type: 'minecraft:smelting'}))
+		if (e.countRecipes({input: item.id, type: 'minecraft:smelting', not: {output: 'spelunkery:charcoal_lump'}}))
 			return
 
 		var maxCreatable = 0
