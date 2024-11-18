@@ -33,5 +33,10 @@ ServerEvents.recipes(event => {
 	}
 	special_eye('graveyard:corruption', 'minecraft:blaze_powder', 'minecraft:prismarine_crystals', 'bewitchment:demon_heart')
 	special_eye('spelunkery:raw_magnetite_nugget','netherexp:will_o_wisp','aquamirae:ship_graveyard_echo','chestcavity:ender_heart')
+	replace_shaped(event,
+		'minecraft:ender_chest',
+		['OCO','CPC','OCO'],
+		{O:'minecraft:obsidian', C:'minecraft:crying_obsidian', P:'minecraft:ender_pearl'}
+	)
 })
 
