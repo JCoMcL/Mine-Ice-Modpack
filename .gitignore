@@ -48,6 +48,7 @@ config/everycomp-hazardous.properties
 config/jade/usernamecache.json
 config/sound_physics_remastered/occlusion.properties
 config/sound_physics_remastered/reflectivity.properties
+config/skinrestorer/mojang_profile_cache.json
 .bobby
 emi.json
 config/waila/waila_plugins.json5
