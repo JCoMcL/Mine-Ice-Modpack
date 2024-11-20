@@ -1,5 +1,7 @@
 version:3465
 
+onboardAccessibility:false
+
 gamma:0.3
 renderDistance:24
 simulationDistance:12
