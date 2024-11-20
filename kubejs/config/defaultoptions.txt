@@ -52,3 +52,4 @@ key_key.voice_chat_group:key.keyboard.unknown
 key_key.voice_chat_toggle_recording:key.keyboard.unknown
 key_key.voice_chat_adjust_volumes:key.keyboard.unknown
 key_key.weaponmaster_ydm.opengui:key.keyboard.unknown
+resourcePacks:["vanilla","fabric","presencefootsteps:default_sound_pack","file/Dubious_Dweller.zip","minecraft:supporteatinganimation","Moonlight Mods Dynamic Assets","file/better_flame_particles-v2.1-mc1.14x-1.21x-resourcepack.zip","file/Connected Vanilla Textures (1.20.2).zip","file/Fancy Crops v1.0 f5-34.zip","file/[1.4.1] Enhanced Boss Bars.zip","file/EvenBetterEnchants_v2_r1.zip","continuity:glass_pane_culling_fix","file/Simple Grass Flowers v1.8.1.zip","immersive_weathering:visual_waxed_iron_items","spelunkery:better_vanilla_gems","netherexp:jne_retextures","file/xali\u0027s Bushy Leaves v3.5.0.zip","file/xali\u0027s Enhanced Vanilla -1.11.2b-rev.54d51d4.zip","netherexp:unique_nether_wood"]
