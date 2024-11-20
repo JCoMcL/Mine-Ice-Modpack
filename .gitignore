@@ -52,3 +52,4 @@ config/skinrestorer/mojang_profile_cache.json
 .bobby
 emi.json
 config/waila/waila_plugins.json5
+config/mkb

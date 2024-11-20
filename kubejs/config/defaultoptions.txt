@@ -19,3 +19,34 @@ soundCategory_voice:1.0
 skipMultiplayerWarning:true
 
 resourcePacks:["vanilla","fabric","presencefootsteps:default_sound_pack","minecraft:supporteatinganimation","Moonlight Mods Dynamic Assets","file/better_flame_particles-v2.1-mc1.14x-1.21x-resourcepack.zip","file/Connected Vanilla Textures (1.20.2).zip","file/Fancy Crops v1.0 f5-34.zip","file/[1.4.1] Enhanced Boss Bars.zip","file/EvenBetterEnchants_v2_r1.zip","continuity:glass_pane_culling_fix","file/Simple Grass Flowers v1.8.1.zip","immersive_weathering:visual_waxed_iron_items","spelunkery:better_vanilla_gems","netherexp:jne_retextures","file/xali\u0027s Bushy Leaves v3.5.0.zip","file/xali\u0027s Enhanced Vanilla -1.11.2b-rev.54d51d4.zip","netherexp:unique_nether_wood"]
+
+key_key.socialInteractions:key.keyboard.unknown
+key_key.saveToolbarActivator:key.keyboard.unknown
+key_key.loadToolbarActivator:key.keyboard.unknown
+key_key.valkyrienskies.ship_down:key.keyboard.c
+key_key.valkyrienskies.ship_cruise:key.keyboard.g
+key_key.crawl:key.keyboard.c
+key_key.do_a_barrel_roll.toggle_enabled:key.keyboard.unknown
+key_key.do_a_barrel_roll.thrust_forward:key.keyboard.unknown
+key_key.extraalchemy.magnetism_toggle:key.keyboard.unknown
+key_key.extraalchemy.potion_bag_mode:key.keyboard.p
+key_key.fog.toggle:key.keyboard.unknown
+key_key.jade.config:key.keyboard.unknown
+key_key.jade.show_overlay:key.keyboard.left.shift
+key_key.jade.toggle_liquid:key.keyboard.unknown
+key_key.jade.narrate:key.keyboard.unknown
+key_key.jade.show_details_alternative:key.keyboard.unknown
+key_supplementaries.keybind.quiver:key.keyboard.b
+key_key.presencefootsteps.settings:key.keyboard.unknown
+key_seamless_loading_screen.keybind.config:key.keyboard.unknown
+key_key.push_to_talk:key.keyboard.unknown
+key_key.whisper:key.keyboard.unknown
+key_key.mute_microphone:key.keyboard.unknown
+key_key.disable_voice_chat:key.keyboard.unknown
+key_key.hide_icons:key.keyboard.unknown
+key_key.voice_chat:key.keyboard.v
+key_key.voice_chat_settings:key.keyboard.unknown
+key_key.voice_chat_group:key.keyboard.unknown
+key_key.voice_chat_toggle_recording:key.keyboard.unknown
+key_key.voice_chat_adjust_volumes:key.keyboard.unknown
+key_key.weaponmaster_ydm.opengui:key.keyboard.unknown
